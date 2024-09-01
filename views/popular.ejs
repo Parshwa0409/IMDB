@@ -1,8 +1,99 @@
 <!DOCTYPE html>
 <html lang="en">
   <%- include ("./templates/header.ejs", {title: "IMDb - Top Picks"}) %>
-  <body>
+  <body class="bg-light">
     <%- include('./templates/navbar.ejs') %>
+    <div class="mx-auto">
+      <section id="popular-celebs" class="bg-dark">
+        <div
+          id="carouselExampleControls"
+          class="carousel slide"
+          data-ride="carousel"
+        >
+          <div class="carousel-inner p-3">
+            <% if (locals.celebs.statusCode === 200) { %> <%
+            locals.celebs.data.forEach((celeb, index) => { %>
+            <div class="carousel-item <%= index===0 ? 'active' : null %>">
+              <div class="celeb-slide">
+                <div class="celeb-profile">
+                  <img src="<%=celeb.primaryImage.imageUrl%>" />
+                </div>
+
+                <div class="slide-info">
+                  <h1 class="info-title mb-1"><%=celeb.nameText.text%></h1>
+
+                  <div class="info-text my-1">
+                    <p>
+                      Known for the
+                      <em>
+                        "<%=celeb.nameKnownFor.edges[0].node.knownForTitle.titleType.text%>
+                        -
+                        <%=celeb.nameKnownFor.edges[0].node.knownForTitle.originalTitleText.text%>"
+                      </em>
+                      which was released in the year
+                      <em>
+                        <%=celeb.nameKnownFor.edges[0].node.knownForTitle.releaseYear.year%>
+                      </em>
+                      and has an average rating of
+                      <em>
+                        <%=celeb.nameKnownFor.edges[0].node.knownForTitle.ratingsSummary.aggregateRating%>!
+                      </em>
+                    </p>
+                  </div>
+
+                  <div class="info-text mb-3">
+                    Also widely recognized as
+                    <%celeb.primaryProfessions.forEach((profession,index) => {%>
+                    <%= index!==0 ? ", " : null %> <%=profession.category.text%>
+                    <%});%>
+                  </div>
+
+                  <p class="info-text">
+                    <strong>Born On:</strong>
+                    <%=
+                    celeb.birthDateComponents.displayableProperty.value.plainText
+                    %>
+                  </p>
+                  <% if (celeb.deathDateComponents) { %>
+                  <p class="info-text">
+                    <strong>Died In:</strong>
+                    <%= celeb.deathDateComponents.dateComponents.year %>
+                  </p>
+                  <% } %>
+                </div>
+              </div>
+            </div>
+            <% }) %> <% } %>
+          </div>
+          <a
+            class="carousel-control-prev"
+            href="#carouselExampleControls"
+            role="button"
+            data-slide="prev"
+          >
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a
+            class="carousel-control-next"
+            href="#carouselExampleControls"
+            role="button"
+            data-slide="next"
+          >
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </section>
+
+      <section id="popular-movies">
+        <div>asdasdasd</div>
+      </section>
+
+      <section id="popular-shows">
+        <div>asdasdasd</div>
+      </section>
+    </div>
   </body>
 
   <%- include ("./templates/footer.ejs", {title: "IMDb - Weekly Top 10"}) %>

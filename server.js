@@ -23,6 +23,7 @@ const option = {
   "x-rapidapi-host": "imdb188.p.rapidapi.com",
 };
 
+// INDEX.EJS
 async function keywordCategories() {
   const options = {
     method: "GET",
@@ -143,8 +144,37 @@ app.get("/", async (req, res) => {
   });
 });
 
-app.get("/populars", (req, res) => {
-  res.render("popular.ejs", {});
+// POPULAR.EJS
+
+async function popularCelebsLocal() {
+  let response = JSON.parse(
+    await readFile(__dirname + "/data/popular_celebs.json", "utf8")
+  );
+  return { data: response.data.list.slice(0, 10), statusCode: 200 };
+}
+
+async function popularMoviesLocal() {
+  let response = JSON.parse(
+    await readFile(__dirname + "/data/popular_movies.json", "utf8")
+  );
+  return { data: response.data.list.slice(0, 10), statusCode: 200 };
+}
+
+async function popularShowsLocal() {
+  let response = JSON.parse(
+    await readFile(__dirname + "/data/popular_shows.json", "utf8")
+  );
+  return { data: response.data.list.slice(0, 10), statusCode: 200 };
+}
+app.get("/populars", async (req, res) => {
+  let popularCelebsCall = await popularCelebsLocal();
+  let popularMoviesCall = await popularMoviesLocal();
+  let popularShowsCall = await popularShowsLocal();
+  res.render("popular.ejs", {
+    celebs: popularCelebsCall,
+    movies: popularMoviesCall,
+    shows: popularShowsCall,
+  });
 });
 
 app.listen(port, () => {
