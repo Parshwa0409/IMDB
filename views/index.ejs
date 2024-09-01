@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <%- include ("./templates/header.ejs", {title: "IMDb - Weekly Top 10"}) %>
+  <%- include ("./templates/header.ejs", {title: "IMDb"}) %>
   <body>
     <%- include('./templates/navbar.ejs') %>
 
-    <section class="hero-section">
+    <section id="hero-section" class="bg-light">
       <div class="mx-auto">
         <div class="introduction">
           <h1>Welcome to "IMDb - Movie Info"</h1>
@@ -33,27 +33,34 @@
     </section>
 
     <section id="weekly-top-10">
-      <h1 class="ml-3">Weekly Top 10</h1>
+      <h1 class="ml-3">"Weekly Top-10"</h1>
       <div class="movie-row">
-        <% if (locals.weeklyTop10.statusCode === 200) { %> <%
-        locals.weeklyTop10.data.forEach(movie => { %>
-        <%-include('./templates/movie_card.ejs', {movie: movie}) %> <% }) %> <%
-        }else { %>
-        <h1>Really Sorry, COuld not fetch the Weekly Top 10</h1>
+        <% if (locals.weeklyTop10.statusCode === 200) { %> 
+          <% locals.weeklyTop10.data.forEach(movie => { %>
+            <%-include('./templates/movie_card.ejs', {movie: movie}) %> 
+          <% }) %> 
+        <% } else { %>
+          <h1>Really Sorry, Could not fetch the Weekly Top 10</h1>
         <% } %>
       </div>
     </section>
 
-    <%# TODO: popular_genres, popular_keywords CARDS - ON CLICK DO THAT SEARCH-API CALL %>
-    <section id="featured-section">
-      <div class="featured-movie">
-        <h2>Featured Movie: Inception</h2>
-        <p>
-          Experience the mind-bending thriller directed by Christopher Nolan.
-          Join Dom Cobb and his team as they delve deep into the world of
-          dreams.
-        </p>
-        <a href="#featured-movie-details">Learn More</a>
+    <%# TODO: popular_genres, popular_keywords CARDS - ON CLICK DO THAT
+    SEARCH-API CALL %>
+    <section id="categories-section" class="bg-light">
+      <h2>“Discover by Theme"</h2>
+      <div class="theme-cards-row my-2">
+
+        <% if (locals.genres.statusCode === 200) { %> 
+          <% locals.genres.data.forEach(theme => { %>
+            <button class="theme-card" data-theme=""><%= theme %></button>
+          <%});%> 
+        <% } else { %>TODO: ERROR IMPLEMENTATION <% } %> 
+        <% if (locals.keywords.statusCode === 200) { %> 
+          <% locals.keywords.data.forEach(theme => { %>
+            <button button class="theme-card"><%= theme %></button>
+        <%});%> 
+        <% } else { %>TODO: ERROR IMPLEMENTATION <% } %>
       </div>
     </section>
   </body>

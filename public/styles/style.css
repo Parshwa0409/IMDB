@@ -1,8 +1,10 @@
+/* TODO: STYLING FOCUS ON NEXT PROJECT WITH LESS FUNCTIONALITY */
 * {
   padding: 0;
   margin: 0;
 }
 
+/* Move it to navbar.css */
 .nav-item {
   font-size: 1.25rem;
   font-weight: 600;
@@ -16,8 +18,8 @@
   transition: transform 0.5s;
 }
 
-/*  */
-.hero-section {
+/*   */
+#hero-section {
   padding: 1rem 3rem;
 }
 
@@ -40,7 +42,7 @@
   margin-left: 0.25rem;
 }
 
-/*  */
+/* Move it to movie_card.css */
 .movie-row {
   display: flex;
   flex-direction: row;
@@ -88,6 +90,23 @@
   padding: 1rem 2rem;
 }
 
-/* 
-#featured-section {}
-*/
+#categories-section {
+  padding: 1rem 3rem;
+}
+
+.theme-cards-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.theme-card {
+  padding: 1rem 2rem;
+  background-color: rgb(241, 187, 22);
+  border: 1.5px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+
+.theme-card:hover {
+  transform: scale(1.15);
+  transition: transform 0.25s;
+}

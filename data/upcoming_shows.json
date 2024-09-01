@@ -1,0 +1,65 @@
+{
+  "requires": "Region_params",
+  "status": false,
+  "timestamp": 1725188252751,
+  "message": [
+    {
+      "group": "Sep 06, 2024",
+      "entries": [
+        {
+          "id": "tt32491236",
+          "titleText": "Fated to the Alpha",
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "canHaveEpisodes": true
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOWUyMjY2NTItY2E0NS00NDc3LWE1MDctN2NlZTg2ODUyNGRlXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1440,
+            "maxWidth": 1080,
+            "caption": "Fated to the Alpha (2024)"
+          },
+          "releaseDate": "Fri, 06 Sep 2024 00:00:00 GMT",
+          "genres": ["Romance"],
+          "principalCredits": [
+            { "id": "nm9981575", "text": "Maria Barseghian" },
+            { "id": "nm10885467", "text": "Noah Fearnley" },
+            { "id": "nm13386865", "text": "Rebecca Stoughton" },
+            { "id": "nm9227128", "text": "Leannie" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 08, 2024",
+      "entries": [
+        {
+          "id": "tt6658720",
+          "titleText": "Keeping Faith",
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "canHaveEpisodes": true
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODk2NDNjODEtYjBmMy00N2FhLWI0ZTEtMWEzZTdhZTZkMWMxXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 643,
+            "maxWidth": 457,
+            "caption": "Eve Myles in Keeping Faith (2017)"
+          },
+          "releaseDate": "Sun, 08 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama", "Mystery", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0616990", "text": "Eve Myles" },
+            { "id": "nm1164626", "text": "Bradley Freegard" },
+            { "id": "nm0428765", "text": "Mark Lewis Jones" },
+            { "id": "nm1770416", "text": "Hannah Daniel" }
+          ],
+          "releaseYear": { "year": 2017, "endYear": 2021 }
+        }
+      ]
+    }
+  ]
+}

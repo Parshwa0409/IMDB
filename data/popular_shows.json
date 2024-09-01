@@ -1,0 +1,5284 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1725188129392,
+  "data": {
+    "pageInfo": {
+      "hasNextPage": true,
+      "endCursor": "eyJlc1Rva2VuIjpbIjg1NiIsIjg1NiIsInR0MTIzMjQzNjYiXSwiZmlsdGVyIjoie1wiY29uc3RyYWludHNcIjp7XCJnZW5yZUNvbnN0cmFpbnRcIjp7fSxcIm9yaWdpbkNvdW50cnlDb25zdHJhaW50XCI6e1wiYW55UHJpbWFyeUNvdW50cmllc1wiOltcIlVTXCJdfSxcInJlbGVhc2VEYXRlQ29uc3RyYWludFwiOntcInJlbGVhc2VEYXRlUmFuZ2VcIjp7XCJlbmRcIjpcIjIwMjktMTItMzFcIixcInN0YXJ0XCI6XCIyMDIwLTAxLTAxXCJ9fSxcInJ1bnRpbWVDb25zdHJhaW50XCI6e30sXCJ0aXRsZVR5cGVDb25zdHJhaW50XCI6e1wiYW55VGl0bGVUeXBlSWRzXCI6W1widHZNaW5pU2VyaWVzXCIsXCJ0dk1vdmllXCIsXCJ0dlNlcmllc1wiLFwidHZTaG9ydFwiLFwidHZTcGVjaWFsXCJdfSxcInVzZXJSYXRpbmdzQ29uc3RyYWludFwiOntcImFnZ3JlZ2F0ZVJhdGluZ1JhbmdlXCI6e1wibWF4XCI6MTAsXCJtaW5cIjo2fSxcInJhdGluZ3NDb3VudFJhbmdlXCI6e1wibWluXCI6MTAwMH19fSxcImxhbmd1YWdlXCI6XCJlbi1VU1wiLFwic29ydFwiOntcInNvcnRCeVwiOlwiUE9QVUxBUklUWVwiLFwic29ydE9yZGVyXCI6XCJBU0NcIn0sXCJyZXN1bHRJbmRleFwiOjk5fSJ9",
+      "total": 1126
+    },
+    "list": [
+      {
+        "title": {
+          "id": "tt11198330",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "House of the Dragon"
+          },
+          "primaryImage": {
+            "id": "rm3614667265",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1296,
+            "imageHeight": 1920
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.4,
+            "topRanking": {
+              "rank": 382
+            },
+            "voteCount": 440581
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "House of the Dragon"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15203646",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Bad Monkey"
+          },
+          "primaryImage": {
+            "id": "rm2155571713",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2RjMGNiMmEtMDkzZS00ODhjLTk0OGEtMTE0YWI2ODJjMDNhXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.4,
+            "topRanking": null,
+            "voteCount": 3935
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Bad Monkey"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14452776",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Bear"
+          },
+          "primaryImage": {
+            "id": "rm4090916865",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjE0MjBkNWMtOGUzZS00MzMyLTgwYjgtNTBkZWQ5YWRlMmM1XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 675,
+            "imageHeight": 1000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.6,
+            "topRanking": {
+              "rank": 177
+            },
+            "voteCount": 241516
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Bear"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt7631058",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Lord of the Rings: The Rings of Power"
+          },
+          "primaryImage": {
+            "id": "rm937590017",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTZmMzJhOTktNGJjOC00NDE0LThjNTItODQ0YjBjNzg2OWQ4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.9,
+            "topRanking": {
+              "rank": 1981
+            },
+            "voteCount": 368622
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Lord of the Rings: The Rings of Power"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt8962124",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Emily in Paris"
+          },
+          "primaryImage": {
+            "id": "rm589262337",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODI5Y2YxM2UtZjhjYy00ZjM0LTg3NjQtYjQxMTBmZjM4ZTlkXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1500,
+            "imageHeight": 2222
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.9,
+            "topRanking": {
+              "rank": 2001
+            },
+            "voteCount": 121747
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Emily in Paris"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt17677860",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Presumed Innocent"
+          },
+          "primaryImage": {
+            "id": "rm1120498177",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDk1MWM3NmItZmNjZS00ZmZkLTk1ZDAtZjFiN2FiZjczNmZhXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": {
+              "rank": 1136
+            },
+            "voteCount": 46501
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Presumed Innocent"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt9813792",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "From"
+          },
+          "primaryImage": {
+            "id": "rm2520329729",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDQxOGI4ZjItM2NhZC00Y2FhLWEwZTAtZTc2MmJmNzY1MjViXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+            "imageWidth": 1944,
+            "imageHeight": 2880
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": {
+              "rank": 1211
+            },
+            "voteCount": 82274
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "From"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12637874",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Fallout"
+          },
+          "primaryImage": {
+            "id": "rm2121877249",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjQ0YjAyNWQtMjRjMC00NzMxLTlkNjEtYWQzNmQwNGRlMGJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+            "imageWidth": 1944,
+            "imageHeight": 2880
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.4,
+            "topRanking": {
+              "rank": 372
+            },
+            "voteCount": 248284
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Fallout"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt10569934",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Those About to Die"
+          },
+          "primaryImage": {
+            "id": "rm1237872897",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGMzZjlhNGMtMDg4OC00MzFlLTljODQtNjI0NTNkMDk2NTIwXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2025,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.6,
+            "topRanking": {
+              "rank": 1987
+            },
+            "voteCount": 14402
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Those About to Die"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15017118",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Dark Winds"
+          },
+          "primaryImage": {
+            "id": "rm2514036225",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGM5ZTU4NmQtZDg5ZC00YjdlLWJkNjMtZjJlNmJjNGI3MzRlXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+            "imageWidth": 1387,
+            "imageHeight": 2048
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": {
+              "rank": 1181
+            },
+            "voteCount": 17756
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Dark Winds"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt21831910",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Decameron"
+          },
+          "primaryImage": {
+            "id": "rm1531016193",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTI2YjliODQtOGU2OS00ZWI0LWFiZmMtNzdmNWZhN2FhNWFmXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1013,
+            "imageHeight": 1500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.4,
+            "topRanking": null,
+            "voteCount": 6698
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Decameron"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt2788316",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Shogun"
+          },
+          "primaryImage": {
+            "id": "rm1455376897",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmJkMDRjYzEtMWI3Ny00OWE3LWJlNTItMGQ1MTQzMzc3NDY5XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1200,
+            "imageHeight": 1500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.6,
+            "topRanking": {
+              "rank": 128
+            },
+            "voteCount": 166822
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2026
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Shōgun"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt16098700",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Fire Country"
+          },
+          "primaryImage": {
+            "id": "rm1380647425",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmQ3YTlmMjItNjBmZC00MDJkLTg2NWUtNDY0NzkwNjBmOTcyXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1999,
+            "imageHeight": 2896
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.1,
+            "topRanking": {
+              "rank": 1685
+            },
+            "voteCount": 11559
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Fire Country"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11691774",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Only Murders in the Building"
+          },
+          "primaryImage": {
+            "id": "rm1281452801",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjNlZjRhMmMtMzUyYy00NmQxLThlZmQtZDAyMzBlMTAzMTcxXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1170,
+            "imageHeight": 1451
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.1,
+            "topRanking": {
+              "rank": 740
+            },
+            "voteCount": 161576
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Only Murders in the Building"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14022350",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Serpent Queen"
+          },
+          "primaryImage": {
+            "id": "rm993030145",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDYyZmZhMDQtMTcxYy00MWYyLWI1YzgtZDJkMWU4OTU1NjMyXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1200,
+            "imageHeight": 1800
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": null,
+            "voteCount": 9070
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Serpent Queen"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt8740790",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Bridgerton"
+          },
+          "primaryImage": {
+            "id": "rm3083501057",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2ZiODA2MGYtMmMxMi00YjlmLWFmYjktMWYyOTMwNWFkNWNkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "imageWidth": 1500,
+            "imageHeight": 2222
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.4,
+            "topRanking": {
+              "rank": 1631
+            },
+            "voteCount": 192094
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Bridgerton"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11712058",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Mayor of Kingstown"
+          },
+          "primaryImage": {
+            "id": "rm1067941377",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDEyYWY2YTAtMGQ3Yy00ZWFjLTlmYzYtOGQ2ZDlhOTU2OGY4XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1382,
+            "imageHeight": 2048
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.2,
+            "topRanking": {
+              "rank": 650
+            },
+            "voteCount": 54055
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Mayor of Kingstown"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt10986410",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Ted Lasso"
+          },
+          "primaryImage": {
+            "id": "rm1876440065",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTdmZjBjZjQtY2JiNS00Y2ZlLTg2NzgtMjUzMGY2OTVmOWJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+            "imageWidth": 675,
+            "imageHeight": 1000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.8,
+            "topRanking": {
+              "rank": 83
+            },
+            "voteCount": 363533
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": 2023
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Ted Lasso"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13406094",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The White Lotus"
+          },
+          "primaryImage": {
+            "id": "rm3728343297",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjdjNzBmYjEtM2Y5My00YjI0LWJjY2YtOGQ4MjNkNmE2MDVjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+            "imageWidth": 1296,
+            "imageHeight": 1920
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8,
+            "topRanking": {
+              "rank": 878
+            },
+            "voteCount": 217681
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": 2025
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The White Lotus"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt19231492",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Dark Matter"
+          },
+          "primaryImage": {
+            "id": "rm2459662337",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTYzNGIzNDItMjQ5Yy00NmNiLWI4YTQtNzVjYzBjZDEzNDdjXkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": {
+              "rank": 1176
+            },
+            "voteCount": 41068
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Dark Matter"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15591076",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "That '90s Show"
+          },
+          "primaryImage": {
+            "id": "rm1642675201",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2MyODVjN2QtZjU3Mi00ZjQwLTg1N2EtNjUyNGJmNjkwNzVjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1350
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.3,
+            "topRanking": {
+              "rank": 2120
+            },
+            "voteCount": 27964
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "That '90s Show"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14022668",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Lady in the Lake"
+          },
+          "primaryImage": {
+            "id": "rm2435543297",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGQ2ZTlkNjEtOTJjNi00YTg5LThiYWYtYjg4Y2NjMmJlMTU3XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6,
+            "topRanking": null,
+            "voteCount": 4825
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Lady in the Lake"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11379456",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "My Lady Jane"
+          },
+          "primaryImage": {
+            "id": "rm2872276481",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmEwYjQ5MWMtZDdiOC00NTk1LWEwOWEtYjQ2NDUxNjk2YWU5XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.4,
+            "topRanking": {
+              "rank": 1525
+            },
+            "voteCount": 14690
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "My Lady Jane"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11280740",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Severance"
+          },
+          "primaryImage": {
+            "id": "rm1914702081",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjkwZjcwMGQtNDAzOC00YjJiLThiYTgtNWU3ZjRiZmY2YzEzXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.7,
+            "topRanking": {
+              "rank": 99
+            },
+            "voteCount": 217694
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Severance"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt18070984",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Average Joe"
+          },
+          "primaryImage": {
+            "id": "rm529933057",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWNiZTA4MTEtYWM0OC00ZDRmLTk1NjUtNDQzMWRjZTQxOTI1XkEyXkFqcGdeQXVyMjc5NDI0Mg@@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.3,
+            "topRanking": null,
+            "voteCount": 1447
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Average Joe"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt16358384",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Tulsa King"
+          },
+          "primaryImage": {
+            "id": "rm595093761",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjBiNmI3YjMtNjJmNi00MTdiLTg5YTItMTk1MjcwOWIyZjY3XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2363,
+            "imageHeight": 3500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8,
+            "topRanking": {
+              "rank": 849
+            },
+            "voteCount": 75544
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Tulsa King"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14681596",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Batman: Caped Crusader"
+          },
+          "primaryImage": {
+            "id": "rm676820481",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODljODc0MzYtMWRlMi00NmU5LWI0NzAtNWZmZmU3YWFkNTE4XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 604,
+            "imageHeight": 755
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.3,
+            "topRanking": {
+              "rank": 1505
+            },
+            "voteCount": 10888
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Batman: Caped Crusader"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt9257258",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Kevin Can F**k Himself"
+          },
+          "primaryImage": {
+            "id": "rm2600481537",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTcyMmQwNTAtYTgyNS00ZDc3LTkxZWItYjg2Y2FkOTY5NDI3XkEyXkFqcGdeQXVyNjEwOTY1NDg@._V1_.jpg",
+            "imageWidth": 1175,
+            "imageHeight": 1763
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.1,
+            "topRanking": {
+              "rank": 1712
+            },
+            "voteCount": 11408
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": 2022
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Kevin Can F**k Himself"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt3960394",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Interview with the Vampire"
+          },
+          "primaryImage": {
+            "id": "rm1840086017",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY2NmNkYjEtMDEyZC00ZTc4LWJlZTgtYmM2N2ZhYjc5ODNmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "imageWidth": 2025,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.4,
+            "topRanking": {
+              "rank": 1592
+            },
+            "voteCount": 28106
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Interview with the Vampire"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt33038128",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Wyatt Earp and the Cowboy War"
+          },
+          "primaryImage": {
+            "id": "rm1368681985",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM1OWU1NjMtYmM0NC00ZjM2LTgxNWMtZjhmODM3NzM5M2JkXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 600,
+            "imageHeight": 900
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.9,
+            "topRanking": null,
+            "voteCount": 1500
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Wyatt Earp and the Cowboy War"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11311302",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Vikings: Valhalla"
+          },
+          "primaryImage": {
+            "id": "rm1930784769",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWFjYmMxMjMtMGE2ZC00YWZhLTgzNDYtYTA3ODA2MDg2NTA4XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1500,
+            "imageHeight": 2222
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.3,
+            "topRanking": {
+              "rank": 1651
+            },
+            "voteCount": 62707
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Vikings: Valhalla"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt9288030",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Reacher"
+          },
+          "primaryImage": {
+            "id": "rm239294209",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWRiZjYwZjUtYmIwMy00ZDUzLTk2NjktZmJkZjRkNjU0MDE3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+            "imageWidth": 404,
+            "imageHeight": 608
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8,
+            "topRanking": {
+              "rank": 823
+            },
+            "voteCount": 223016
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Reacher"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15428778",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Mayfair Witches"
+          },
+          "primaryImage": {
+            "id": "rm2285714945",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzIyZjYzYjgtYzQwNC00MGY4LWJhMTAtMDIzMTZiMGE0YjkxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "imageWidth": 2025,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.2,
+            "topRanking": {
+              "rank": 2111
+            },
+            "voteCount": 13221
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Mayfair Witches"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt6156584",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Snowpiercer"
+          },
+          "primaryImage": {
+            "id": "rm2994042113",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmM1ODg0MjktY2U3ZC00ZDc4LTkxMjAtMzljY2VkZmI3MmE5XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 675,
+            "imageHeight": 1000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.9,
+            "topRanking": {
+              "rank": 1955
+            },
+            "voteCount": 65418
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Snowpiercer"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt7440726",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Your Honor"
+          },
+          "primaryImage": {
+            "id": "rm2397518337",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTIxMmJlNzAtZTQ3NC00MjIyLTk4YTUtNmNlNzNjMzYzZWFiXkEyXkFqcGdeQXVyMTUyMTU1MDg1._V1_.jpg",
+            "imageWidth": 1920,
+            "imageHeight": 2880
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.6,
+            "topRanking": {
+              "rank": 1302
+            },
+            "voteCount": 72873
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": 2023
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Your Honor"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12878838",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Bel-Air"
+          },
+          "primaryImage": {
+            "id": "rm1918841345",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2I3ZmE3YTAtNDM5MS00NzQ1LWFhOWUtN2ZmMmEzNjQ3MzFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "imageWidth": 2025,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.4,
+            "topRanking": {
+              "rank": 2072
+            },
+            "voteCount": 13494
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Bel-Air"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13443470",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Wednesday"
+          },
+          "primaryImage": {
+            "id": "rm4040492033",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "imageWidth": 1500,
+            "imageHeight": 2222
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.1,
+            "topRanking": {
+              "rank": 766
+            },
+            "voteCount": 377912
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Wednesday"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14688458",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Silo"
+          },
+          "primaryImage": {
+            "id": "rm2521247489",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTk3MGJkZGItNzRjYy00MDhiLWExMjUtOWU2Njc3YWRmOWE3XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.1,
+            "topRanking": {
+              "rank": 737
+            },
+            "voteCount": 133618
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Silo"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt18070898",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Sunny"
+          },
+          "primaryImage": {
+            "id": "rm1298101249",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDA5NzU0YWUtNmI2Ny00NTAyLWIwMzgtMGI0N2JlNjQ3ZDZlXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.8,
+            "topRanking": null,
+            "voteCount": 2715
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Sunny"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13062500",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Walking Dead: Daryl Dixon"
+          },
+          "primaryImage": {
+            "id": "rm454194177",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjFlYzg4M2ItZjlmZC00MTA2LWJlZTgtODdlZmZjNWRkMzI5XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1040,
+            "imageHeight": 1560
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.6,
+            "topRanking": {
+              "rank": 1317
+            },
+            "voteCount": 24385
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Walking Dead: Daryl Dixon"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt8910922",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Solar Opposites"
+          },
+          "primaryImage": {
+            "id": "rm1696035841",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOThkYmE3YjQtYmRhYS00Yjg4LTg5OWEtZDNiYjk1MTViZDRmXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1350
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.9,
+            "topRanking": {
+              "rank": 867
+            },
+            "voteCount": 31855
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Solar Opposites"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt18335752",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "1923"
+          },
+          "primaryImage": {
+            "id": "rm906246401",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWZhNGJjMGUtYmVhZi00NDFiLWE2NWMtYjE1OGZmNGMxNDk4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+            "imageWidth": 2700,
+            "imageHeight": 4000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.3,
+            "topRanking": {
+              "rank": 473
+            },
+            "voteCount": 57152
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": 2023
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "1923"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13315664",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Troppo"
+          },
+          "primaryImage": {
+            "id": "rm2196796929",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTYzY2Y0Y2ItODlkMC00M2EyLWIzOTgtZTE2NTJjM2ExNWY3XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.5,
+            "topRanking": null,
+            "voteCount": 4190
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Troppo"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt8690918",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Resident Alien"
+          },
+          "primaryImage": {
+            "id": "rm2424717825",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2FjM2M4NWMtM2FlMi00ZTg0LTlmNzYtMTk4NDI1ZTU3ZGJlXkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_.jpg",
+            "imageWidth": 1000,
+            "imageHeight": 1500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.1,
+            "topRanking": {
+              "rank": 784
+            },
+            "voteCount": 66204
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Resident Alien"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11126994",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Arcane: League of Legends"
+          },
+          "primaryImage": {
+            "id": "rm1038512129",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWJhYjdjNWEtMWFmNC00ZjNkLThlZGEtN2NkM2U3NTVmMjZkXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2160,
+            "imageHeight": 2700
+          },
+          "ratingsSummary": {
+            "aggregateRating": 9,
+            "topRanking": {
+              "rank": 28
+            },
+            "voteCount": 285609
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Arcane"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13159924",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Gen V"
+          },
+          "primaryImage": {
+            "id": "rm1934188033",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGYxOWMxNjMtNjE3Mi00YTRjLTlkZWUtNDk4NzBkMWEyYWE0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "imageWidth": 7213,
+            "imageHeight": 10236
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": {
+              "rank": 1175
+            },
+            "voteCount": 109766
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Gen V"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14164730",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Dexter: New Blood"
+          },
+          "primaryImage": {
+            "id": "rm2548428289",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjQwNDE3NGUtMjljMi00OWI4LTljYjktZmMyNWJkMTI1NjZhXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",
+            "imageWidth": 2400,
+            "imageHeight": 3600
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.1,
+            "topRanking": {
+              "rank": 765
+            },
+            "voteCount": 105590
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": 2022
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Dexter: New Blood"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13991232",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "1883"
+          },
+          "primaryImage": {
+            "id": "rm3604932865",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDZkZDdkMjYtMGI3Yi00MmVkLTkzZjQtMGI0NGViNzIzNjhjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+            "imageWidth": 1058,
+            "imageHeight": 1554
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.7,
+            "topRanking": {
+              "rank": 120
+            },
+            "voteCount": 121256
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": 2022
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "1883"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11016042",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Ripley"
+          },
+          "primaryImage": {
+            "id": "rm1183272193",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmI0NzgyY2ItODVmMy00YzQzLWI3ODAtMzExZDMxYWU0YmZhXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1500,
+            "imageHeight": 2222
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.1,
+            "topRanking": {
+              "rank": 627
+            },
+            "voteCount": 47881
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Ripley"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt9253284",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Andor"
+          },
+          "primaryImage": {
+            "id": "rm484051201",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDgxNTIyZTMtMzYxNi00NmRjLWFiMTEtM2U4MTFmODkzNzM1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "imageWidth": 1688,
+            "imageHeight": 2500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.4,
+            "topRanking": {
+              "rank": 338
+            },
+            "voteCount": 175341
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Andor"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14203572",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Monsieur Spade"
+          },
+          "primaryImage": {
+            "id": "rm1003113729",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWMxYjQ1OTYtNmIyMy00MWIxLWI0YjYtOTA4NTg5MTBiNTcyXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 600,
+            "imageHeight": 889
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.9,
+            "topRanking": null,
+            "voteCount": 6202
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Monsieur Spade"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11815682",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Hacks"
+          },
+          "primaryImage": {
+            "id": "rm3354949889",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjI4NmRiNGQtNTg2OS00OTNkLWE4MDMtYjA5NDhiMGVjZmIxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+            "imageWidth": 1296,
+            "imageHeight": 1920
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.2,
+            "topRanking": {
+              "rank": 560
+            },
+            "voteCount": 44155
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Hacks"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt4301160",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Black Bird"
+          },
+          "primaryImage": {
+            "id": "rm4185528065",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjI3NjcyN2UtMGNhZC00YTYxLWJmOTQtNWI1ZGJmNjA4ZjY5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.1,
+            "topRanking": {
+              "rank": 655
+            },
+            "voteCount": 111706
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": 2022
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Black Bird"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt16026746",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "X-Men '97"
+          },
+          "primaryImage": {
+            "id": "rm1278166273",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDE0Zjk5OGYtZTk3OC00ZDZhLWE2NGQtNzc3NmJhNjljYzY5XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1350
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.8,
+            "topRanking": {
+              "rank": 71
+            },
+            "voteCount": 34731
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "X-Men '97"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt6741278",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Invincible"
+          },
+          "primaryImage": {
+            "id": "rm637692417",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWVkOWIwM2QtMmRhNi00ZDcxLWI3NjUtYTBhN2VhZmU0MDQwXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1350
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.7,
+            "topRanking": {
+              "rank": 108
+            },
+            "voteCount": 216532
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Invincible"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt33079160",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "American Murder: Laci Peterson"
+          },
+          "primaryImage": {
+            "id": "rm3487787265",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDIzMWZjNzYtMTcxMC00OTVkLWE2NDItYTdiNDhjNjRmYjdmXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1200,
+            "imageHeight": 1778
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7,
+            "topRanking": null,
+            "voteCount": 2966
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "American Murder: Laci Peterson"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt19394168",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Unstable"
+          },
+          "primaryImage": {
+            "id": "rm3625724417",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWFlOTlhZDQtNDYyYi00ODE4LTlkMzgtNDk4MzFlODk0OTQ5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+            "imageWidth": 450,
+            "imageHeight": 630
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.7,
+            "topRanking": null,
+            "voteCount": 9913
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Unstable"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt2640044",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Masters of the Air"
+          },
+          "primaryImage": {
+            "id": "rm1044925697",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzViZjM3ZTUtZDdiZS00MDUzLTgxZjYtYmUwNDNlNWRiYmY4XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.8,
+            "topRanking": {
+              "rank": 1056
+            },
+            "voteCount": 53077
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Masters of the Air"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13018148",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Tell Me Lies"
+          },
+          "primaryImage": {
+            "id": "rm2658797825",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDc0YjU2YTAtMThiYS00OGIzLWJhNjAtZTU2MGJmYzAwYzk4XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "imageWidth": 8100,
+            "imageHeight": 12000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.7,
+            "topRanking": null,
+            "voteCount": 7099
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Tell Me Lies"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13875494",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Tracker"
+          },
+          "primaryImage": {
+            "id": "rm318325249",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTBhMzljMTgtMTc2MS00Y2UwLTk5ZjEtNjFlZDg1ZTMwYTA1XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg",
+            "imageWidth": 1020,
+            "imageHeight": 1500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7,
+            "topRanking": {
+              "rank": 1818
+            },
+            "voteCount": 12023
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Tracker"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt17543592",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Will Trent"
+          },
+          "primaryImage": {
+            "id": "rm1789873921",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjZhZWMwNTQtMjdkMi00ZDQ4LWIxOWYtMDMxNzZlNDMzMmVmXkEyXkFqcGdeQXVyMTY0Njc2MTUx._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1351
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": {
+              "rank": 1207
+            },
+            "voteCount": 19540
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Will Trent"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt5645432",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Old Man"
+          },
+          "primaryImage": {
+            "id": "rm2873363969",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjI3NDhlNjUtYzdlNi00MDc1LTg0NjktODE5NmViM2VjZGM0XkEyXkFqcGdeQXVyNzc2NTk0MjQ@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1350
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.6,
+            "topRanking": {
+              "rank": 1355
+            },
+            "voteCount": 49967
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Old Man"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11231226",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Reasonable Doubt"
+          },
+          "primaryImage": {
+            "id": "rm3609658113",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzdhNDJkNTUtMjQwNi00NDZkLWE4OGMtZDVlNDJiMTA3NTI3XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 1920
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.4,
+            "topRanking": null,
+            "voteCount": 2454
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Reasonable Doubt"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt1640719",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Under the Bridge"
+          },
+          "primaryImage": {
+            "id": "rm2782951937",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2M5ODQ2OWItMWEyNC00YmZlLTlhZDEtZDgzMTc2N2U0NTI4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+            "imageWidth": 7932,
+            "imageHeight": 11676
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.2,
+            "topRanking": {
+              "rank": 1657
+            },
+            "voteCount": 13611
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Under the Bridge"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt9140554",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Loki"
+          },
+          "primaryImage": {
+            "id": "rm2827965441",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTY1ZDQzNzQtZGM1Yy00YjRhLTliYmMtOGM2OWFlYTRjOTc2XkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1350
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.2,
+            "topRanking": {
+              "rank": 607
+            },
+            "voteCount": 422127
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": 2023
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Loki"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt7462410",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Wheel of Time"
+          },
+          "primaryImage": {
+            "id": "rm1795971841",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjcyOTk2YmQtMTI3NS00MTM3LWIyZDgtZGJkMDk1YmE2ZDEwXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
+            "imageWidth": 1944,
+            "imageHeight": 2880
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.2,
+            "topRanking": {
+              "rank": 1865
+            },
+            "voteCount": 139837
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Wheel of Time"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt10293938",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Outer Banks"
+          },
+          "primaryImage": {
+            "id": "rm2944495361",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWM0MjkwMmItNTlhMC00NGJmLWExODYtM2IzZTFlOWM0NWNhXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1687,
+            "imageHeight": 2500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.5,
+            "topRanking": {
+              "rank": 1499
+            },
+            "voteCount": 82742
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Outer Banks"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13918776",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Night Agent"
+          },
+          "primaryImage": {
+            "id": "rm796604161",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODgzYmFkZjAtYjhmNC00NDdkLTk4NGYtNDdiODVlNmE3ODkyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+            "imageWidth": 583,
+            "imageHeight": 864
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.5,
+            "topRanking": {
+              "rank": 1490
+            },
+            "voteCount": 115027
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Night Agent"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12327578",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Star Trek: Strange New Worlds"
+          },
+          "primaryImage": {
+            "id": "rm907093505",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2Q2YWM0NWMtMGJmYS00NjY3LTg2MDctY2ViY2ZiM2Y5ZTAyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+            "imageWidth": 675,
+            "imageHeight": 1000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.3,
+            "topRanking": {
+              "rank": 491
+            },
+            "voteCount": 61079
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Star Trek: Strange New Worlds"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11041332",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Yellowjackets"
+          },
+          "primaryImage": {
+            "id": "rm1913730817",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkzYTBkYmItN2Q0Zi00ODhiLWI3MzEtNDdiNDRkNWYzOTMyXkEyXkFqcGdeQXVyMTUyMTgzNjY4._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.8,
+            "topRanking": {
+              "rank": 1145
+            },
+            "voteCount": 88979
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Yellowjackets"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15677150",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Shrinking"
+          },
+          "primaryImage": {
+            "id": "rm1791245569",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzhjMDIwOTgtYmMwNC00ZDIyLWJiMzUtMDM0YTY3M2VmOWNiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8,
+            "topRanking": {
+              "rank": 826
+            },
+            "voteCount": 73269
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Shrinking"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14153236",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Terminator Zero"
+          },
+          "primaryImage": {
+            "id": "rm1428253185",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzk3YzI2ZDUtMmFjNy00ZmQwLWFiNWUtODcwMjllYWYwZmY2XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1350
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7,
+            "topRanking": null,
+            "voteCount": 2026
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Terminator Zero"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13911628",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Lessons in Chemistry"
+          },
+          "primaryImage": {
+            "id": "rm1735204865",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzM5ODUwOGMtNDFjNi00OTI1LWIzMmYtMWM4MWRhZjg4NGVjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+            "imageWidth": 1000,
+            "imageHeight": 1500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.2,
+            "topRanking": {
+              "rank": 570
+            },
+            "voteCount": 40558
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": 2023
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Lessons in Chemistry"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt9859436",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Walking Dead: The Ones Who Live"
+          },
+          "primaryImage": {
+            "id": "rm2356956417",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjc3YWM3MjctZDAzNy00OWY4LTkwNjMtMWM2YTg1ZWRlMDAwXkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_.jpg",
+            "imageWidth": 1382,
+            "imageHeight": 2048
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.9,
+            "topRanking": {
+              "rank": 984
+            },
+            "voteCount": 32944
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Walking Dead: The Ones Who Live"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13833978",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Lincoln Lawyer"
+          },
+          "primaryImage": {
+            "id": "rm1265508097",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGEyNzY3YzAtNDYwMS00NWZhLTg0ODktYjcyMGM4OTA4MTYwXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1500,
+            "imageHeight": 2222
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": {
+              "rank": 1200
+            },
+            "voteCount": 66990
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Lincoln Lawyer"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt16418808",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Sugar"
+          },
+          "primaryImage": {
+            "id": "rm2501541121",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWM5YzVlNjQtZDM5Mi00Zjc2LWI4NjctNGEwNjQ4ODk0ODNkXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+            "imageWidth": 1175,
+            "imageHeight": 1763
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.4,
+            "topRanking": {
+              "rank": 1470
+            },
+            "voteCount": 30298
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Sugar"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15567174",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Fall of the House of Usher"
+          },
+          "primaryImage": {
+            "id": "rm300898561",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjljYTFlYWUtN2I2Zi00NmEyLWI1MzQtY2U1OWI2M2IwNmZjXkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_.jpg",
+            "imageWidth": 1500,
+            "imageHeight": 2222
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.9,
+            "topRanking": {
+              "rank": 951
+            },
+            "voteCount": 115950
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": 2023
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Fall of the House of Usher"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt18546730",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Walking Dead: Dead City"
+          },
+          "primaryImage": {
+            "id": "rm1363094785",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1382,
+            "imageHeight": 2048
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.1,
+            "topRanking": {
+              "rank": 1767
+            },
+            "voteCount": 23877
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Walking Dead: Dead City"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt10048342",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Queen's Gambit"
+          },
+          "primaryImage": {
+            "id": "rm1650697985",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg",
+            "imageWidth": 800,
+            "imageHeight": 1185
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.5,
+            "topRanking": {
+              "rank": 190
+            },
+            "voteCount": 574374
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": 2020
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Queen's Gambit"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14044212",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Mr. & Mrs. Smith"
+          },
+          "primaryImage": {
+            "id": "rm2458340609",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDE0M2YyM2UtODRmNC00YjAyLWIwMjktOTAwMDBiYjBhMGZmXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+            "imageWidth": 1944,
+            "imageHeight": 2880
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7,
+            "topRanking": {
+              "rank": 1899
+            },
+            "voteCount": 44184
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Mr. & Mrs. Smith"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt21056886",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Scavengers Reign"
+          },
+          "primaryImage": {
+            "id": "rm1036538625",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmEyOWU1YjctNjgxNS00MTcyLTk3NDgtZmY3ZjBkY2RkN2YxXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 1920
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.7,
+            "topRanking": {
+              "rank": 153
+            },
+            "voteCount": 21655
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": 2023
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Scavengers Reign"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13111078",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Lioness"
+          },
+          "primaryImage": {
+            "id": "rm3235127553",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmRkMWQzZWUtZjkzNS00OWVhLTkxNDAtNzg4ODgxMTg0MTNlXkEyXkFqcGdeQXVyMTMzOTQyOTk1._V1_.jpg",
+            "imageWidth": 2700,
+            "imageHeight": 4000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": {
+              "rank": 1250
+            },
+            "voteCount": 45748
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Lioness"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt10155688",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Mare of Easttown"
+          },
+          "primaryImage": {
+            "id": "rm4287679489",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmEwMmViMDQtODM4NC00Y2UyLTg1MTgtOWEwOWJmOGI5NzZmXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+            "imageWidth": 768,
+            "imageHeight": 1138
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.4,
+            "topRanking": {
+              "rank": 289
+            },
+            "voteCount": 193694
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": 2021
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Mare of Easttown"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt2235759",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Great"
+          },
+          "primaryImage": {
+            "id": "rm4252103681",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzVmOGNlOTctZGFhZi00MTczLTg1MTEtYTg3ZTNkNjQ2YjRlXkEyXkFqcGdeQXVyNjYxNjc0OTc@._V1_.jpg",
+            "imageWidth": 1168,
+            "imageHeight": 1729
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.1,
+            "topRanking": {
+              "rank": 664
+            },
+            "voteCount": 56023
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": 2023
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Great"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt4406178",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Gilded Age"
+          },
+          "primaryImage": {
+            "id": "rm1060130817",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDc3N2E1OWEtZTQ0NS00ZDFkLWFhOGUtYWU2MjJjYzdhMjQ2XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1013,
+            "imageHeight": 1500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8,
+            "topRanking": {
+              "rank": 819
+            },
+            "voteCount": 39507
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Gilded Age"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt9018736",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Avatar: The Last Airbender"
+          },
+          "primaryImage": {
+            "id": "rm2739621121",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTViNTY2MjMtYmUwOC00ZGYxLThjOWEtYjNjZWU3MTYwYzZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1350
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.2,
+            "topRanking": {
+              "rank": 1781
+            },
+            "voteCount": 74297
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Avatar: The Last Airbender"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14016500",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Summer I Turned Pretty"
+          },
+          "primaryImage": {
+            "id": "rm2924881153",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGJhMjkzMGItN2E5NS00Y2UzLWFhYmMtYmY0ZGNjYzI5MjAyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+            "imageWidth": 1944,
+            "imageHeight": 2880
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.3,
+            "topRanking": {
+              "rank": 1684
+            },
+            "voteCount": 44269
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Summer I Turned Pretty"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt8888540",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Palm Royale"
+          },
+          "primaryImage": {
+            "id": "rm3619177985",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTc3NzA0YWQtNDA0MC00MjE1LWExZTMtNzY0YWIxYzdkNTRmXkEyXkFqcGdeQXVyMTY2MjE4Mzkz._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.7,
+            "topRanking": {
+              "rank": 1933
+            },
+            "voteCount": 10404
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Palm Royale"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13207736",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Monster"
+          },
+          "primaryImage": {
+            "id": "rm2683399937",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDAzYzEzZDMtOWE3Ny00MTU3LWIwY2MtMDYzZmYzYTZkYjJkXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1013,
+            "imageHeight": 1500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.9,
+            "topRanking": {
+              "rank": 970
+            },
+            "voteCount": 163176
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Monster"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt10323338",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "9-1-1: Lone Star"
+          },
+          "primaryImage": {
+            "id": "rm1968990209",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2JiMTEzNGYtNDUyNi00ZDc2LWJkMzctNjZlMjMwMzM0MjMzXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 875,
+            "imageHeight": 1094
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.3,
+            "topRanking": {
+              "rank": 1654
+            },
+            "voteCount": 22444
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "9-1-1: Lone Star"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13622776",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Ahsoka"
+          },
+          "primaryImage": {
+            "id": "rm933635329",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWM1NjU1MDgtYjhjYS00Mjg5LWE1MWEtNzUwNWMxNTU2ZWY3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+            "imageWidth": 1688,
+            "imageHeight": 2500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.5,
+            "topRanking": {
+              "rank": 1458
+            },
+            "voteCount": 120853
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Ahsoka"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15469618",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Bad Sisters"
+          },
+          "primaryImage": {
+            "id": "rm2210926081",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjc2ZWY3NjYtM2Q5OS00YTI1LTk5MDktYjYwYTk2Yzc4YTc4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+            "imageWidth": 1000,
+            "imageHeight": 1500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.3,
+            "topRanking": {
+              "rank": 528
+            },
+            "voteCount": 36426
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Bad Sisters"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11097240",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Obliterated"
+          },
+          "primaryImage": {
+            "id": "rm2790216705",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzE3MTY5MjktOTZjNC00ZjhhLTgyZjktYjUxMjE5YzQ5OTJkXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+            "imageWidth": 510,
+            "imageHeight": 755
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.8,
+            "topRanking": {
+              "rank": 1973
+            },
+            "voteCount": 20400
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": 2023
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Obliterated"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt2934286",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Halo"
+          },
+          "primaryImage": {
+            "id": "rm1811803137",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzhlOTkzZDMtNDYxYS00NTY2LWJjZDEtNjI3NmE3MTI2NGU2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "imageWidth": 2700,
+            "imageHeight": 4000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.3,
+            "topRanking": {
+              "rank": 1744
+            },
+            "voteCount": 97817
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Halo"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11685912",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Outer Range"
+          },
+          "primaryImage": {
+            "id": "rm3375002625",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjg1ZThkYWItNWRiYS00ZDlmLWIyNDgtZTI4NTg1Zjk0YTM3XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1944,
+            "imageHeight": 2880
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.1,
+            "topRanking": {
+              "rank": 1831
+            },
+            "voteCount": 42096
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Outer Range"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14269590",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Poker Face"
+          },
+          "primaryImage": {
+            "id": "rm1629041153",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDMyNjAxYTQtMjAyNi00NGQ5LWE0YzUtMTEzNWQ5NjYyNmFjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+            "imageWidth": 2025,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.8,
+            "topRanking": {
+              "rank": 1055
+            },
+            "voteCount": 50482
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Poker Face"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt26591110",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Elsbeth"
+          },
+          "primaryImage": {
+            "id": "rm2233105665",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWE4ZDQyZDMtZjJjNi00YmUxLWE1NGMtY2YzN2NiYzQ5NWQwXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+            "imageWidth": 1175,
+            "imageHeight": 1763
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": null,
+            "voteCount": 7665
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Elsbeth"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt14403178",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Beef"
+          },
+          "primaryImage": {
+            "id": "rm1203776001",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzgxYzg0NmEtNzdhMy00NjFiLTg1MTQtM2EzMDRiOGEwZjI2XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1500,
+            "imageHeight": 2222
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8,
+            "topRanking": {
+              "rank": 812
+            },
+            "voteCount": 141388
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Beef"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12809988",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Sweet Tooth"
+          },
+          "primaryImage": {
+            "id": "rm1880521985",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2FlZWY1MWQtNTlkNy00ZjYxLTk0MmMtMGI4ZWIxNzhmODM5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "imageWidth": 1500,
+            "imageHeight": 2222
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": {
+              "rank": 1192
+            },
+            "voteCount": 73243
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Sweet Tooth"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12324366",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Percy Jackson and the Olympians"
+          },
+          "primaryImage": {
+            "id": "rm2553765121",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYyNGUyNWMtMWFlMy00NThiLTk3YjItMWE2MzMzNmQwZTU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "imageWidth": 1600,
+            "imageHeight": 2000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.1,
+            "topRanking": {
+              "rank": 1869
+            },
+            "voteCount": 38399
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Percy Jackson and the Olympians"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      }
+    ]
+  }
+}

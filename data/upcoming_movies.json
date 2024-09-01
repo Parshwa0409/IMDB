@@ -1,0 +1,4450 @@
+{
+  "requires": "region_param",
+  "status": false,
+  "timestamp": 1725188329683,
+  "message": [
+    {
+      "group": "Sep 03, 2024",
+      "entries": [
+        {
+          "id": "tt28536290",
+          "titleText": "Advanced Chemistry",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTYxZDBiZDEtZThkYS00Mzk4LWIyOWEtNmQxYmQ2YWE0N2NkXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 12000,
+            "maxWidth": 8100,
+            "caption": "Advanced Chemistry (2023)"
+          },
+          "releaseDate": "Tue, 03 Sep 2024 00:00:00 GMT",
+          "genres": ["Comedy"],
+          "principalCredits": [
+            { "id": "nm2913547", "text": "Samba Schutte" },
+            { "id": "nm2114614", "text": "Chaunte Wayans" },
+            { "id": "nm1901220", "text": "Sarah Burns" },
+            { "id": "nm1454280", "text": "Kiran Deol" }
+          ],
+          "releaseYear": { "year": 2023 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 06, 2024",
+      "entries": [
+        {
+          "id": "tt2049403",
+          "titleText": "Beetlejuice Beetlejuice",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3000,
+            "maxWidth": 2024,
+            "caption": "Winona Ryder, Willem Dafoe, Michael Keaton, Monica Bellucci, Catherine O'Hara, Justin Theroux, Arthur Conti, and Jenna Ortega in Beetlejuice Beetlejuice (2024)"
+          },
+          "releaseDate": "Fri, 06 Sep 2024 00:00:00 GMT",
+          "genres": ["Comedy", "Fantasy", "Horror"],
+          "principalCredits": [
+            { "id": "nm0000474", "text": "Michael Keaton" },
+            { "id": "nm0000213", "text": "Winona Ryder" },
+            { "id": "nm0001573", "text": "Catherine O'Hara" },
+            { "id": "nm4911194", "text": "Jenna Ortega" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt21905744",
+          "titleText": "The Front Room",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDIwNTNlMzAtYjkzNi00MDNjLWFlOGYtNDI1MDdkNWQwOWIwXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3000,
+            "maxWidth": 2025,
+            "caption": "Brandy Norwood in The Front Room (2024)"
+          },
+          "releaseDate": "Fri, 06 Sep 2024 00:00:00 GMT",
+          "genres": ["Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0005275", "text": "Brandy Norwood" },
+            { "id": "nm8084427", "text": "Andrew Burnap" },
+            { "id": "nm0402898", "text": "Kathryn Hunter" },
+            { "id": "nm0400223", "text": "Neal Huff" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt4058618",
+          "titleText": "The Thicket",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMGE4Zjg5ZmQtMzlhNi00YjcxLWIzNDktMjNhOWFjZDFmN2FhXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 5184,
+            "maxWidth": 3456,
+            "caption": "Juliette Lewis and Peter Dinklage in The Thicket (2024)"
+          },
+          "releaseDate": "Fri, 06 Sep 2024 00:00:00 GMT",
+          "genres": ["Crime", "Drama"],
+          "principalCredits": [
+            { "id": "nm0227759", "text": "Peter Dinklage" },
+            { "id": "nm0000496", "text": "Juliette Lewis" },
+            { "id": "nm1600102", "text": "Levon Hawke" },
+            { "id": "nm6051155", "text": "Leslie Grace" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt8005600",
+          "titleText": "Continue",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZWE1ODcxNGItODg0NC00ODQ0LWE1NTEtZTM5ZTcwYzRhMDQ4XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 755,
+            "maxWidth": 510,
+            "caption": "Continue (2022)"
+          },
+          "releaseDate": "Fri, 06 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm3206051", "text": "Nadine Crocker" },
+            { "id": "nm2057036", "text": "Shiloh Fernandez" },
+            { "id": "nm3006818", "text": "Lio Tipton" },
+            { "id": "nm6697518", "text": "Anthony Caravella" }
+          ],
+          "releaseYear": { "year": 2022 }
+        },
+        {
+          "id": "tt32881060",
+          "titleText": "Lover of Men: The Untold History of Abraham Lincoln",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOGVkYThhYTEtNGUwOS00ZDUxLWE1ZGEtOTI1ZDA3ODk0YWIxXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 11850,
+            "maxWidth": 8100,
+            "caption": "Lover of Men: The Untold History of Abraham Lincoln (2024)"
+          },
+          "releaseDate": "Fri, 06 Sep 2024 00:00:00 GMT",
+          "genres": ["Documentary"],
+          "principalCredits": [
+            { "id": "nm14060570", "text": "Thomas Balcerski" },
+            { "id": "nm1131290", "text": "Michael Bronski" },
+            { "id": "nm3941980", "text": "Jack Halberstam" },
+            { "id": "nm2211264", "text": "John Stauffer" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt31353888",
+          "titleText": "The Cowboy and the Queen",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODE1NGMyNDEtNzYzOC00OTA2LWEyNDMtZGY4NjU2YWIwMTdmXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 12075,
+            "maxWidth": 8175,
+            "caption": "The Cowboy and the Queen (2023)"
+          },
+          "releaseDate": "Fri, 06 Sep 2024 00:00:00 GMT",
+          "genres": ["Documentary", "Biography"],
+          "principalCredits": [
+            { "id": "nm0703070", "text": "Queen Elizabeth II" },
+            { "id": "nm1399993", "text": "Monty Roberts" }
+          ],
+          "releaseYear": { "year": 2023 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 11, 2024",
+      "entries": [
+        {
+          "id": "tt28607487",
+          "titleText": "The Concierge at Hokkyoku Department Store",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWMyYmE5NDctMzRhYS00NjYxLTkzZjMtZGVmOWU3NWVhNjI3XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2121,
+            "maxWidth": 1500,
+            "caption": "The Concierge at Hokkyoku Department Store (2023)"
+          },
+          "releaseDate": "Wed, 11 Sep 2024 00:00:00 GMT",
+          "genres": ["Animation", "Adventure", "Family"],
+          "principalCredits": [
+            { "id": "nm9532108", "text": "Natsumi Kawaida" },
+            { "id": "nm9779526", "text": "Takeo Otsuka" },
+            { "id": "nm0864980", "text": "Nobuo Tobita" },
+            { "id": "nm4751364", "text": "Megumi Han" }
+          ],
+          "releaseYear": { "year": 2023 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 13, 2024",
+      "entries": [
+        {
+          "id": "tt27534307",
+          "titleText": "Speak No Evil",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWI2OWFjNjgtOTQ2Zi00MjlmLTg2MGYtNmE4MjMyZjIzMDA0XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 5000,
+            "maxWidth": 3158,
+            "caption": "James McAvoy in Speak No Evil (2024)"
+          },
+          "releaseDate": "Fri, 13 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama", "Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0564215", "text": "James McAvoy" },
+            { "id": "nm4496875", "text": "Mackenzie Davis" },
+            { "id": "nm1058940", "text": "Scoot McNairy" },
+            { "id": "nm4957233", "text": "Aisling Franciosi" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt33034103",
+          "titleText": "Am I Racist?",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjcwZGJkOTMtYzNiZS00NjBlLWE2NzctZWY5NjliM2NjOTI4XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1438,
+            "maxWidth": 971,
+            "caption": "Matt Walsh in Am I Racist? (2024)"
+          },
+          "releaseDate": "Fri, 13 Sep 2024 00:00:00 GMT",
+          "genres": ["Documentary", "Comedy"],
+          "principalCredits": [
+            { "id": "nm9503133", "text": "Matt Walsh" },
+            { "id": "nm8604266", "text": "Robin DiAngelo" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt0327785",
+          "titleText": "The Killer's Game",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODg4MTBiOGQtN2I5Yi00MWY2LWI1ODktZTUzZjhlYmZjMjFkXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1350,
+            "maxWidth": 1080,
+            "caption": "Ben Kingsley, Scott Adkins, Daniel Bernhardt, Terry Crews, Marko Zaror, Sofia Boutella, Dave Bautista, Drew McIntyre, and Pom Klementieff in The Killer's Game (2024)"
+          },
+          "releaseDate": "Fri, 13 Sep 2024 00:00:00 GMT",
+          "genres": ["Action", "Comedy", "Thriller"],
+          "principalCredits": [
+            { "id": "nm1154749", "text": "Sofia Boutella" },
+            { "id": "nm6434811", "text": "Lucy Cork" },
+            { "id": "nm1176985", "text": "Dave Bautista" },
+            { "id": "nm2962353", "text": "Pom Klementieff" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt13457790",
+          "titleText": "The Critic",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODc5MjRmMTQtNmU1Zi00ZDAwLWFkZGItMGFlZDI1OGY1ZmI4XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 12075,
+            "maxWidth": 8175,
+            "caption": "Ian McKellen, Lesley Manville, Mark Strong, and Gemma Arterton in The Critic (2023)"
+          },
+          "releaseDate": "Fri, 13 Sep 2024 00:00:00 GMT",
+          "genres": ["Crime", "Drama", "Mystery"],
+          "principalCredits": [
+            { "id": "nm2605345", "text": "Gemma Arterton" },
+            { "id": "nm1602660", "text": "Ben Barnes" },
+            { "id": "nm0005212", "text": "Ian McKellen" },
+            { "id": "nm0835016", "text": "Mark Strong" }
+          ],
+          "releaseYear": { "year": 2023 }
+        },
+        {
+          "id": "tt5402714",
+          "titleText": "Here After",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODdjYTQ3NDMtZGZhZC00NmEwLThmYjItYjRmMzM2OTY4MTc3XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1481,
+            "maxWidth": 1000,
+            "caption": "Here After (2024)"
+          },
+          "releaseDate": "Fri, 13 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama", "Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0110168", "text": "Connie Britton" },
+            { "id": "nm3316181", "text": "Giovanni Cirfiera" },
+            { "id": "nm7274632", "text": "Freya Hannan-Mills" },
+            { "id": "nm8439834", "text": "Tommaso Basili" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt31392609",
+          "titleText": "How to Make Millions Before Grandma Dies",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGY4N2M5YTktNGViZS00YmM1LWFlNGUtNWQxM2Y4NmE3ZWI1XkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_.jpg",
+            "maxHeight": 8018,
+            "maxWidth": 5620,
+            "caption": "Putthipong Assaratanakul and Usha Seamkhum in How to Make Millions Before Grandma Dies (2024)"
+          },
+          "releaseDate": "Fri, 13 Sep 2024 00:00:00 GMT",
+          "genres": ["Comedy", "Drama"],
+          "principalCredits": [
+            { "id": "nm11095364", "text": "Putthipong Assaratanakul" },
+            { "id": "nm15842624", "text": "Usha Seamkhum" },
+            { "id": "nm12154675", "text": "Tontawan Tantivejakul" },
+            { "id": "nm5408594", "text": "Sarinrat Thomas" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 17, 2024",
+      "entries": [
+        {
+          "id": "tt2766800",
+          "titleText": "Grainne Uaile: The Movie",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjM5NjY3ODU5Nl5BMl5BanBnXkFtZTgwMDQ0NjEzNTE@._V1_.jpg",
+            "maxHeight": 2246,
+            "maxWidth": 1588,
+            "caption": "Grainne Uaile: The Movie (2024)"
+          },
+          "releaseDate": "Tue, 17 Sep 2024 00:00:00 GMT",
+          "genres": ["Action"],
+          "principalCredits": [
+            { "id": "nm3878712", "text": "Fionnuala Collins" },
+            { "id": "nm1076340", "text": "Ciaron Davies" },
+            { "id": "nm5355876", "text": "Peter Cosgrove" },
+            { "id": "nm6284581", "text": "Patrick Mc Loughlin" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 18, 2024",
+      "entries": [
+        {
+          "id": "tt32903026",
+          "titleText": "Jung Kook: I Am Still",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzJmNDBkOTMtYmI0OS00NGM1LWE3MjEtYzliYjNiY2FmZjUzXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2068,
+            "maxWidth": 1400,
+            "caption": "Jung Kook: I Am Still (2024)"
+          },
+          "releaseDate": "Wed, 18 Sep 2024 00:00:00 GMT",
+          "genres": ["Documentary", "Music"],
+          "principalCredits": [{ "id": "nm8506461", "text": "Jungkook" }],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 20, 2024",
+      "entries": [
+        {
+          "id": "tt17526714",
+          "titleText": "The Substance",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2844,
+            "maxWidth": 1944,
+            "caption": "Demi Moore in The Substance (2024)"
+          },
+          "releaseDate": "Fri, 20 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama", "Horror"],
+          "principalCredits": [
+            { "id": "nm4960279", "text": "Margaret Qualley" },
+            { "id": "nm0000598", "text": "Dennis Quaid" },
+            { "id": "nm0000193", "text": "Demi Moore" },
+            { "id": "nm7155855", "text": "Hugo Diego Garcia" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt8864596",
+          "titleText": "Transformers One",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZWI1ZDY1YTQtMjRkNy00ZDZhLWE3OTItMTIwNzliY2Y1MTZhXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1500,
+            "maxWidth": 1013,
+            "caption": "Scarlett Johansson, Chris Hemsworth, Keegan-Michael Key, and Brian Tyree Henry in Transformers One (2024)"
+          },
+          "releaseDate": "Fri, 20 Sep 2024 00:00:00 GMT",
+          "genres": ["Animation", "Action", "Adventure"],
+          "principalCredits": [
+            { "id": "nm1165110", "text": "Chris Hemsworth" },
+            { "id": "nm3109964", "text": "Brian Tyree Henry" },
+            { "id": "nm0424060", "text": "Scarlett Johansson" },
+            { "id": "nm1221047", "text": "Keegan-Michael Key" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt2582802",
+          "titleText": "Whiplash",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmNkODhkYjctMDMyOC00ZTNjLTkwZTItM2ExMTAxMGU1ZGQ1XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2866,
+            "maxWidth": 1934,
+            "caption": "J.K. Simmons and Miles Teller in Whiplash (2014)"
+          },
+          "releaseDate": "Fri, 20 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama", "Music"],
+          "principalCredits": [
+            { "id": "nm1886602", "text": "Miles Teller" },
+            { "id": "nm0799777", "text": "J.K. Simmons" },
+            { "id": "nm2552034", "text": "Melissa Benoist" },
+            { "id": "nm0001663", "text": "Paul Reiser" }
+          ],
+          "releaseYear": { "year": 2014 }
+        },
+        {
+          "id": "tt14415204",
+          "titleText": "Never Let Go",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNTFlMzhhYTYtYzMzOC00ZTJiLTllMzAtMGUxOGU0MDVlY2M4XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3000,
+            "maxWidth": 2025,
+            "caption": "Halle Berry, Anthony B. Jenkins, and Percy Daggs IV in Never Let Go (2024)"
+          },
+          "releaseDate": "Fri, 20 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama", "Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0000932", "text": "Halle Berry" },
+            { "id": "nm2254636", "text": "Matthew Kevin Anderson" },
+            { "id": "nm8338801", "text": "Christin Park" },
+            { "id": "nm3988651", "text": "Stephanie Lavigne" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt23743490",
+          "titleText": "What We Find on the Road",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNmZmYzcyNDctZThiZi00MzNiLWEzNTAtYWY1ZjkwOThhNmJlXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1518,
+            "maxWidth": 1031,
+            "caption": "Paul Guilfoyle, Ross Partridge, Katherine Laheen, William Chris Sumpter, and Finn Haney in What We Find on the Road (2024)"
+          },
+          "releaseDate": "Fri, 20 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm9226282", "text": "Finn Haney" },
+            { "id": "nm9132270", "text": "William Chris Sumpter" },
+            { "id": "nm0002117", "text": "Paul Guilfoyle" },
+            { "id": "nm0664061", "text": "Ross Partridge" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt17634108",
+          "titleText": "Happy Clothes: A Film About Patricia Field",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNTNhNTIwMzEtYWNlOC00NTY2LTk2ZDQtMDJjN2Y2NmU4YzMyXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2898,
+            "maxWidth": 1962,
+            "caption": "Patricia Field in Happy Clothes: A Film About Patricia Field (2023)"
+          },
+          "releaseDate": "Fri, 20 Sep 2024 00:00:00 GMT",
+          "genres": ["Documentary"],
+          "principalCredits": [
+            { "id": "nm0060016", "text": "Jean Michel Basquiat" },
+            { "id": "nm0000326", "text": "Kim Cattrall" },
+            { "id": "nm2934314", "text": "Lily Collins" },
+            { "id": "nm1209545", "text": "Laverne Cox" }
+          ],
+          "releaseYear": { "year": 2023 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 24, 2024",
+      "entries": [
+        {
+          "id": "tt15250704",
+          "titleText": "Little Brother",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZWM0YjNhMmItZTNiYy00YWQzLTg3YTMtOWM5NDg5ODA2ZjdhXkEyXkFqcGdeQXVyNDExOTE1NzA@._V1_.jpg",
+            "maxHeight": 1600,
+            "maxWidth": 1080,
+            "caption": "J.K. Simmons, Philip Ettinger, and Daniel Diemer in Little Brother (2023)"
+          },
+          "releaseDate": "Tue, 24 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm1544010", "text": "Beth Bailey" },
+            { "id": "nm8966479", "text": "Kevin Bransford" },
+            { "id": "nm8159701", "text": "Daniel Diemer" },
+            { "id": "nm0237164", "text": "Polly Draper" }
+          ],
+          "releaseYear": { "year": 2023 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 26, 2024",
+      "entries": [
+        {
+          "id": "tt0223840",
+          "titleText": "One Hand Clapping",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDIxNmMyOGQtMDkwNS00ZDU2LWFkMDEtMTgxYzgxZWEyYjEzXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1350,
+            "maxWidth": 1080,
+            "caption": "Paul McCartney in One Hand Clapping (1974)"
+          },
+          "releaseDate": "Thu, 26 Sep 2024 00:00:00 GMT",
+          "genres": ["Documentary", "Music"],
+          "principalCredits": [
+            { "id": "nm0110180", "text": "Geoff Britton" },
+            { "id": "nm0143431", "text": "Howie Casey" },
+            { "id": "nm0256169", "text": "Geoff Emerick" },
+            { "id": "nm0481836", "text": "Denny Laine" }
+          ],
+          "releaseYear": { "year": 1974 }
+        },
+        {
+          "id": "tt33034367",
+          "titleText": "Man vs Phone",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzE0MmI1YTEtOTk1Yi00NTVjLWFlM2UtYTI5YmU4YTEwYWMxXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 998,
+            "maxWidth": 666,
+            "caption": "Alexander Berger in Man vs Phone (2024)"
+          },
+          "releaseDate": "Thu, 26 Sep 2024 00:00:00 GMT",
+          "genres": ["Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm2881202", "text": "Alexander Berger" },
+            { "id": "nm2325207", "text": "Ariana Jackson" },
+            { "id": "nm1515732", "text": "Jacob Akira Okada" },
+            { "id": "nm1556962", "text": "Cameron Fay" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt11821912",
+          "titleText": "Devara Part 1",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYmYyYzZkZTEtOGNjYy00ZWUyLWFiYzYtYjViMzU1ZDk4ODhiXkEyXkFqcGdeQXVyNzI4NjYyMzk@._V1_.jpg",
+            "maxHeight": 2048,
+            "maxWidth": 1311,
+            "caption": "N.T. Rama Rao Jr. in Devara Part 1 (2024)"
+          },
+          "releaseDate": "Thu, 26 Sep 2024 00:00:00 GMT",
+          "genres": ["Action", "Drama", "Thriller"],
+          "principalCredits": [
+            { "id": "nm1694524", "text": "N.T. Rama Rao Jr." },
+            { "id": "nm0451307", "text": "Saif Ali Khan" },
+            { "id": "nm9427099", "text": "Janhvi Kapoor" },
+            { "id": "nm0695177", "text": "Prakash Raj" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 27, 2024",
+      "entries": [
+        {
+          "id": "tt10128846",
+          "titleText": "Megalopolis",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTNhMjVlNmItNmY1Yy00N2E1LWI3ZjAtOTQ4N2QxNDM5OTcwXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3000,
+            "maxWidth": 2025,
+            "caption": "Adam Driver in Megalopolis (2024)"
+          },
+          "releaseDate": "Fri, 27 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm3485845", "text": "Adam Driver" },
+            { "id": "nm0002064", "text": "Giancarlo Esposito" },
+            { "id": "nm2812026", "text": "Nathalie Emmanuel" },
+            { "id": "nm2201555", "text": "Aubrey Plaza" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt5112584",
+          "titleText": "Lee",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDlhMDY0NTAtOTQwZi00ZjIxLTk2ZmYtZjU1Y2FiYWRhZDk3XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 5000,
+            "maxWidth": 3462,
+            "caption": "Kate Winslet in Lee (2023)"
+          },
+          "releaseDate": "Fri, 27 Sep 2024 00:00:00 GMT",
+          "genres": ["Biography", "Drama", "History"],
+          "principalCredits": [
+            { "id": "nm0002907", "text": "Alexander Skarsgård" },
+            { "id": "nm0000701", "text": "Kate Winslet" },
+            { "id": "nm1676221", "text": "Andy Samberg" },
+            { "id": "nm2057859", "text": "Andrea Riseborough" }
+          ],
+          "releaseYear": { "year": 2023 }
+        },
+        {
+          "id": "tt29623480",
+          "titleText": "The Wild Robot",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 5000,
+            "maxWidth": 3158,
+            "caption": "Pedro Pascal, Lupita Nyong'o, and Kit Connor in The Wild Robot (2024)"
+          },
+          "releaseDate": "Fri, 27 Sep 2024 00:00:00 GMT",
+          "genres": ["Animation", "Adventure", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm2143282", "text": "Lupita Nyong'o" },
+            { "id": "nm0050959", "text": "Pedro Pascal" },
+            { "id": "nm5598573", "text": "Kit Connor" },
+            { "id": "nm0631490", "text": "Bill Nighy" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt21201300",
+          "titleText": "Bagman",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYzAwMDllN2UtMDk0My00YWEwLWJhNGUtOGEzYzYwNmZjMzE2XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3000,
+            "maxWidth": 2025,
+            "caption": "Bagman (2024)"
+          },
+          "releaseDate": "Fri, 27 Sep 2024 00:00:00 GMT",
+          "genres": ["Horror"],
+          "principalCredits": [
+            { "id": "nm3510471", "text": "Sam Claflin" },
+            { "id": "nm3687902", "text": "Antonia Thomas" },
+            { "id": "nm0394054", "text": "William Hope" },
+            { "id": "nm2189243", "text": "Steven Cree" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt15727262",
+          "titleText": "Notice to Quit",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODA2MDI2YzUtNzFkZS00MTQyLTg2YmQtZTBhMTk4ODRkMGU0XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 12000,
+            "maxWidth": 8100,
+            "caption": "Notice to Quit (2024)"
+          },
+          "releaseDate": "Fri, 27 Sep 2024 00:00:00 GMT",
+          "genres": [],
+          "principalCredits": [
+            { "id": "nm9321325", "text": "Nell Verlaque" },
+            { "id": "nm1652433", "text": "Michael Zegen" },
+            { "id": "nm9140881", "text": "Isabel Arraiza" },
+            { "id": "nm0458951", "text": "Robert Klein" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt15823456",
+          "titleText": "Empire Waist",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNTBhZGFiMjctZDM4MC00YWUxLWIxOTctNWE2ZDY1MDVjZTIyXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 4527,
+            "maxWidth": 3084,
+            "caption": "Missi Pyle, Rainn Wilson, Jolene Purdy, Jemima Yevu, and Mia Kaplan in Empire Waist (2024)"
+          },
+          "releaseDate": "Fri, 27 Sep 2024 00:00:00 GMT",
+          "genres": ["Comedy", "Drama"],
+          "principalCredits": [
+            { "id": "nm7167446", "text": "Mia Kaplan" },
+            { "id": "nm13083278", "text": "Jemima Yevu" },
+            { "id": "nm0933988", "text": "Rainn Wilson" },
+            { "id": "nm0701512", "text": "Missi Pyle" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt7983904",
+          "titleText": "She Taught Love",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDMwZGJkYTgtOTgzNS00NmRiLThmOWQtZDFlNzc1NzNjZjdlXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 6003,
+            "maxWidth": 4053,
+            "caption": "Kevin Carroll, Darrell Britt-Gibson, D'Arcy Carden, Taissa Farmiga, Edwin Lee Gibson, Hayley Law, Alexander Hodge, and Arsema Thomas in She Taught Love (2024)"
+          },
+          "releaseDate": "Fri, 27 Sep 2024 00:00:00 GMT",
+          "genres": ["Drama", "Romance"],
+          "principalCredits": [
+            { "id": "nm3920288", "text": "Taissa Farmiga" },
+            { "id": "nm3639013", "text": "D'Arcy Carden" },
+            { "id": "nm9160593", "text": "Arsema Thomas" },
+            { "id": "nm0140887", "text": "Kevin Carroll" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt20414834",
+          "titleText": "Putin",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 27 Sep 2024 00:00:00 GMT",
+          "genres": ["Action", "Crime", "Drama"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Oct 03, 2024",
+      "entries": [
+        {
+          "id": "tt10928904",
+          "titleText": "The Legend of Johnny Jones",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjE2NDZmNTAtMTI3NC00OTIxLThhMTctMWExNmFiYmQwODU5XkEyXkFqcGdeQXVyMzE2NDI5NzI@._V1_.jpg",
+            "maxHeight": 963,
+            "maxWidth": 713,
+            "caption": "The Legend of Johnny Jones (2024)"
+          },
+          "releaseDate": "Thu, 03 Oct 2024 00:00:00 GMT",
+          "genres": ["Action", "Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm5094403", "text": "Dylan Playfair" },
+            { "id": "nm3914401", "text": "Hector David Jr." },
+            { "id": "nm12432474", "text": "David Siracusa" },
+            { "id": "nm12376959", "text": "Emily Rose Hernandez" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Oct 04, 2024",
+      "entries": [
+        {
+          "id": "tt11315808",
+          "titleText": "Joker: Folie à Deux",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 4096,
+            "maxWidth": 2764,
+            "caption": "Joaquin Phoenix and Lady Gaga in Joker: Folie à Deux (2024)"
+          },
+          "releaseDate": "Fri, 04 Oct 2024 00:00:00 GMT",
+          "genres": ["Crime", "Drama", "Musical"],
+          "principalCredits": [
+            { "id": "nm5939164", "text": "Zazie Beetz" },
+            { "id": "nm0001618", "text": "Joaquin Phoenix" },
+            { "id": "nm0504962", "text": "Ken Leung" },
+            { "id": "nm3078932", "text": "Lady Gaga" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt11687002",
+          "titleText": "The Outrun",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2Q0YTliNDMtYjRiNC00ZWE2LTg5ZjktNGZhNWRiYTk2ZTFlXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2866,
+            "maxWidth": 1934,
+            "caption": "Saoirse Ronan in The Outrun (2024)"
+          },
+          "releaseDate": "Fri, 04 Oct 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm1519680", "text": "Saoirse Ronan" },
+            { "id": "nm0716293", "text": "Saskia Reeves" },
+            { "id": "nm0226820", "text": "Stephen Dillane" },
+            { "id": "nm6892004", "text": "Lauren Lyle" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt3954936",
+          "titleText": "Monster Summer",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzA2Njg1NmMtYzZjMC00ZmIyLThmMzUtNzIyZjIxODVkZWQwXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 12000,
+            "maxWidth": 8100,
+            "caption": "Mel Gibson, Lorraine Bracco, Patrick Renna, Nora Zehetner, Noah Cottrell, Abby James Witherspoon, Julian Lerner, and Mason Thames in Monster Summer (2024)"
+          },
+          "releaseDate": "Fri, 04 Oct 2024 00:00:00 GMT",
+          "genres": ["Adventure", "Horror", "Mystery"],
+          "principalCredits": [
+            { "id": "nm0000966", "text": "Lorraine Bracco" },
+            { "id": "nm0000154", "text": "Mel Gibson" },
+            { "id": "nm9296746", "text": "Mason Thames" },
+            { "id": "nm0416673", "text": "Kevin James" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt11068094",
+          "titleText": "White Bird",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWJlNzBjNDctMzkxYi00NjRlLWE4MTUtYjU4NDc3OWY4ZjI2XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1920,
+            "maxWidth": 1080,
+            "caption": "Helen Mirren, Ariella Glaser, and Orlando Schwerdt in White Bird (2023)"
+          },
+          "releaseDate": "Fri, 04 Oct 2024 00:00:00 GMT",
+          "genres": ["Adventure", "Biography", "Drama"],
+          "principalCredits": [
+            { "id": "nm0000096", "text": "Gillian Anderson" },
+            { "id": "nm0000545", "text": "Helen Mirren" },
+            { "id": "nm7291339", "text": "Bryce Gheisar" },
+            { "id": "nm2684840", "text": "Olivia Ross" }
+          ],
+          "releaseYear": { "year": 2023 }
+        },
+        {
+          "id": "tt19816664",
+          "titleText": "The Forest Hills",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzRlODU0YTgtMzUwNi00MzVkLWEzODctNjNlZWM2NWJkMjYzXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1653,
+            "maxWidth": 1099,
+            "caption": "The Forest Hills (2023)"
+          },
+          "releaseDate": "Fri, 04 Oct 2024 00:00:00 GMT",
+          "genres": ["Drama", "Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0000411", "text": "Edward Furlong" },
+            { "id": "nm0908914", "text": "Dee Wallace" },
+            { "id": "nm0001167", "text": "Shelley Duvall" },
+            { "id": "nm0741378", "text": "Felissa Rose" }
+          ],
+          "releaseYear": { "year": 2023 }
+        },
+        {
+          "id": "tt27491225",
+          "titleText": "Things Will Be Different",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjAyNmQyOTYtYzI0Ny00YjcyLTg1ZDItYTkyMDRlNDU3NWEwXkEyXkFqcGdeQXVyMTQ4NTgxNzYx._V1_.jpg",
+            "maxHeight": 3321,
+            "maxWidth": 5904,
+            "caption": "Things Will Be Different (2024)"
+          },
+          "releaseDate": "Fri, 04 Oct 2024 00:00:00 GMT",
+          "genres": ["Horror", "Sci-Fi", "Thriller"],
+          "principalCredits": [
+            { "id": "nm4311436", "text": "Adam David Thompson" },
+            { "id": "nm6035288", "text": "Riley Dandy" },
+            { "id": "nm10894698", "text": "Chloe Skoczen" },
+            { "id": "nm1918140", "text": "Justin Benson" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Oct 08, 2024",
+      "entries": [
+        {
+          "id": "tt20200106",
+          "titleText": "The Unraveling",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTYxZjUwNDEtMzBkZS00YmNiLTg3NDktODNkZjVhZjk5ZWY3XkEyXkFqcGdeQXVyMjUyMTI3MDg@._V1_.jpg",
+            "maxHeight": 7200,
+            "maxWidth": 5400,
+            "caption": "The Unraveling (2023)"
+          },
+          "releaseDate": "Tue, 08 Oct 2024 00:00:00 GMT",
+          "genres": ["Thriller"],
+          "principalCredits": [
+            { "id": "nm5579534", "text": "Sarah Zanotti" },
+            { "id": "nm8021695", "text": "Sam Brooks" },
+            { "id": "nm0604800", "text": "Katherine Morgan" },
+            { "id": "nm10053973", "text": "Ali Alsaleh" }
+          ],
+          "releaseYear": { "year": 2023 }
+        },
+        {
+          "id": "tt28537129",
+          "titleText": "Heart of a Servant - The Father Flanagan Story",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOWZhOGIzMjctOGY3My00MGU3LTg5MDktMzRiNGI4ODExYjUyXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 7200,
+            "maxWidth": 4860,
+            "caption": "Heart of a Servant - The Father Flanagan Story (2024)"
+          },
+          "releaseDate": "Tue, 08 Oct 2024 00:00:00 GMT",
+          "genres": ["Documentary"],
+          "principalCredits": [
+            { "id": "nm0745751", "text": "Jonathan Roumie" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Oct 10, 2024",
+      "entries": [
+        {
+          "id": "tt14598526",
+          "titleText": "The Mother God",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Thu, 10 Oct 2024 00:00:00 GMT",
+          "genres": ["Crime", "Drama", "Thriller"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Oct 11, 2024",
+      "entries": [
+        {
+          "id": "tt27657135",
+          "titleText": "Saturday Night",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjQzOGQ0NzUtYTFiNC00YmZmLTkyYjEtOGNiY2M5OTBjMWIwXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1350,
+            "maxWidth": 1080,
+            "caption": "Emily Fairn, Cooper Hoffman, Lamorne Morris, Kim Matula, Dylan O'Brien, Ella Hunt, Matt Wood, Gabriel LaBelle, Cory Michael Smith, and Rachel Sennott in Saturday Night (2024)"
+          },
+          "releaseDate": "Fri, 11 Oct 2024 00:00:00 GMT",
+          "genres": ["Biography", "Comedy", "Drama"],
+          "principalCredits": [
+            { "id": "nm0799777", "text": "J.K. Simmons" },
+            { "id": "nm2204429", "text": "Kim Matula" },
+            { "id": "nm3729721", "text": "Dylan O'Brien" },
+            { "id": "nm0000353", "text": "Willem Dafoe" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt27911000",
+          "titleText": "Terrifier 3",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzc2MWUyYzctY2E4Ny00ZTlmLThjNTMtMTViZGI5NjcyN2EzXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2963,
+            "maxWidth": 2000,
+            "caption": "David Howard Thornton in Terrifier 3 (2024)"
+          },
+          "releaseDate": "Fri, 11 Oct 2024 00:00:00 GMT",
+          "genres": ["Horror"],
+          "principalCredits": [
+            { "id": "nm0000574", "text": "Jason Patric" },
+            { "id": "nm0736263", "text": "Daniel Roebuck" },
+            { "id": "nm7476686", "text": "David Howard Thornton" },
+            { "id": "nm8367841", "text": "Lauren LaVera" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt8368368",
+          "titleText": "The Apprentice",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTRhMmM5NzctNTJlNi00NWUyLTk3NjMtODRhN2QyYTA1NzQzXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 849,
+            "maxWidth": 600,
+            "caption": "The Apprentice (2024)"
+          },
+          "releaseDate": "Fri, 11 Oct 2024 00:00:00 GMT",
+          "genres": ["Biography", "Drama", "History"],
+          "principalCredits": [
+            { "id": "nm1659221", "text": "Sebastian Stan" },
+            { "id": "nm0834989", "text": "Jeremy Strong" },
+            { "id": "nm7210025", "text": "Maria Bakalova" },
+            { "id": "nm0233027", "text": "Martin Donovan" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt7959138",
+          "titleText": "10 Lives",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDc3NDQzNzktOTk0OC00MWY1LWFjNGQtZDg0M2ZkNTc0YmM2XkEyXkFqcGdeQXVyMjEyMzc1Njg@._V1_.jpg",
+            "maxHeight": 3168,
+            "maxWidth": 2112,
+            "caption": "10 Lives (2024)"
+          },
+          "releaseDate": "Fri, 11 Oct 2024 00:00:00 GMT",
+          "genres": ["Animation", "Comedy", "Family"],
+          "principalCredits": [
+            { "id": "nm6399252", "text": "Mo Gilligan" },
+            { "id": "nm7592760", "text": "Simone Ashley" },
+            { "id": "nm0645683", "text": "Sophie Okonedo" },
+            { "id": "nm4098557", "text": "Zayn Malik" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt32176689",
+          "titleText": "My Hero Academia: You're Next",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGVmZDJhNjItYzdlOC00ODA2LWFkYjctY2NmMzNiZTQ2NTVjXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3244,
+            "maxWidth": 2292,
+            "caption": "My Hero Academia: You're Next (2024)"
+          },
+          "releaseDate": "Fri, 11 Oct 2024 00:00:00 GMT",
+          "genres": ["Animation", "Action", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm5481013", "text": "Kaito Ishikawa" },
+            { "id": "nm2569233", "text": "Yûki Kaji" },
+            { "id": "nm1399925", "text": "Kenta Miyake" },
+            { "id": "nm1465001", "text": "Mamoru Miyano" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt31064841",
+          "titleText": "Piece by Piece",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE2YWQtY2YwMS00MTdkLTg0ZWQtMTQ0NzExY2U4NGZkXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1600,
+            "maxWidth": 1080,
+            "caption": "Piece by Piece (2024)"
+          },
+          "releaseDate": "Fri, 11 Oct 2024 00:00:00 GMT",
+          "genres": ["Animation", "Biography", "Comedy"],
+          "principalCredits": [
+            { "id": "nm1214289", "text": "Pharrell Williams" },
+            { "id": "nm1365879", "text": "Morgan Neville" },
+            { "id": "nm5302509", "text": "Kendrick Lamar" },
+            { "id": "nm0005461", "text": "Gwen Stefani" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Oct 18, 2024",
+      "entries": [
+        {
+          "id": "tt29268110",
+          "titleText": "Smile 2",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTg5OTMyMGMtYzMwNC00NDMyLWE0OGUtMTQ1ODcwM2FjOTM4XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3000,
+            "maxWidth": 2025,
+            "caption": "Naomi Scott in Smile 2 (2024)"
+          },
+          "releaseDate": "Fri, 18 Oct 2024 00:00:00 GMT",
+          "genres": ["Horror", "Mystery", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0973177", "text": "Kyle Gallner" },
+            { "id": "nm4305463", "text": "Naomi Scott" },
+            { "id": "nm1679669", "text": "Rosemarie DeWitt" },
+            { "id": "nm4965072", "text": "Lukas Gage" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt10078772",
+          "titleText": "Flight Risk",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BY2Q3YjMyZjItNjdjNS00NzFjLTljMWYtMmZjMGQ5YTVjYWY5XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3000,
+            "maxWidth": 2025,
+            "caption": "Mark Wahlberg in Flight Risk (2024)"
+          },
+          "releaseDate": "Fri, 18 Oct 2024 00:00:00 GMT",
+          "genres": ["Thriller"],
+          "principalCredits": [
+            { "id": "nm0000242", "text": "Mark Wahlberg" },
+            { "id": "nm1890784", "text": "Michelle Dockery" },
+            { "id": "nm0333410", "text": "Topher Grace" },
+            { "id": "nm5911562", "text": "Monib Abhat" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt30841606",
+          "titleText": "Rumours",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZWIwMzM3NDktNjYzNC00ZGJjLTllNWEtZjc3NWUwMTk5NWZhXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 289,
+            "maxWidth": 750,
+            "caption": "Rumours (2024)"
+          },
+          "releaseDate": "Fri, 18 Oct 2024 00:00:00 GMT",
+          "genres": ["Comedy", "Drama"],
+          "principalCredits": [
+            { "id": "nm0000949", "text": "Cate Blanchett" },
+            { "id": "nm0712330", "text": "Rolando Ravello" },
+            { "id": "nm0001097", "text": "Charles Dance" },
+            { "id": "nm0025458", "text": "Nikki Amuka-Bird" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt30319916",
+          "titleText": "Union",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDgwMWJlOTctMmZiOS00M2EyLTgxYzgtZTBmMmVlMjEwY2JkXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2945,
+            "maxWidth": 1964,
+            "caption": "Union (2024)"
+          },
+          "releaseDate": "Fri, 18 Oct 2024 00:00:00 GMT",
+          "genres": ["Documentary"],
+          "principalCredits": [
+            { "id": "nm11572578", "text": "Chris Smalls" },
+            { "id": "nm15795274", "text": "Angelika Maldonado" },
+            { "id": "nm14837866", "text": "Connor Spence" },
+            { "id": "nm14067536", "text": "Derrick Palmer" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt5674658",
+          "titleText": "Kensuke's Kingdom",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZGJiYjY4OTMtYzE2My00NzAzLWI3ZTctN2NlMDFkOWEyMmJmXkEyXkFqcGdeQXVyMzY3MzcyNTE@._V1_.jpg",
+            "maxHeight": 1035,
+            "maxWidth": 700,
+            "caption": "Kensuke's Kingdom (2023)"
+          },
+          "releaseDate": "Fri, 18 Oct 2024 00:00:00 GMT",
+          "genres": ["Animation", "Adventure"],
+          "principalCredits": [
+            { "id": "nm0614165", "text": "Cillian Murphy" },
+            { "id": "nm1020089", "text": "Sally Hawkins" },
+            { "id": "nm3864163", "text": "Raffey Cassidy" },
+            { "id": "nm0913822", "text": "Ken Watanabe" }
+          ],
+          "releaseYear": { "year": 2023 }
+        },
+        {
+          "id": "tt11898070",
+          "titleText": "Somewhere in Montana",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMGQxYmMxMDItY2E0Zi00YmI0LTg3NGYtODRmZDEyYjg0MzRkXkEyXkFqcGdeQXVyMTI3Njk3Mzkx._V1_.jpg",
+            "maxHeight": 630,
+            "maxWidth": 504,
+            "caption": "Graham McTavish in Somewhere in Montana (2024)"
+          },
+          "releaseDate": "Fri, 18 Oct 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm0574615", "text": "Graham McTavish" },
+            { "id": "nm0403335", "text": "Michelle Hurd" },
+            { "id": "nm2326379", "text": "Jonathan Stoddard" },
+            { "id": "nm1484198", "text": "Kate Orsini" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Oct 24, 2024",
+      "entries": [
+        {
+          "id": "tt10844184",
+          "titleText": "Detour 95",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTk4ZDU4NDQtYzVhNS00MDI3LWFkMDYtM2I2YTc0YmJjMTQ1XkEyXkFqcGdeQXVyMzE2NDI5NzI@._V1_.jpg",
+            "maxHeight": 1800,
+            "maxWidth": 1200,
+            "caption": "Detour 95 (2024)"
+          },
+          "releaseDate": "Thu, 24 Oct 2024 00:00:00 GMT",
+          "genres": ["Action", "Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm12376959", "text": "Emily Rose Hernandez" },
+            { "id": "nm4909958", "text": "Matthew Clark \"Ghost\"" },
+            { "id": "nm5629608", "text": "Craig Edwards" },
+            { "id": "nm10920127", "text": "Tesha Clark" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Oct 25, 2024",
+      "entries": [
+        {
+          "id": "tt16366836",
+          "titleText": "Venom: The Last Dance",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1619,
+            "maxWidth": 1080,
+            "caption": "Tom Hardy in Venom: The Last Dance (2024)"
+          },
+          "releaseDate": "Fri, 25 Oct 2024 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm0362766", "text": "Tom Hardy" },
+            { "id": "nm1017334", "text": "Juno Temple" },
+            { "id": "nm0406975", "text": "Rhys Ifans" },
+            { "id": "nm0005513", "text": "Alanna Ubach" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Nov 01, 2024",
+      "entries": [
+        {
+          "id": "tt18272208",
+          "titleText": "Here",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYWFlMWNhNWYtMDU2Mi00OTQ4LWEyZDUtNDNhNTRlYjk0ODM4XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3840,
+            "maxWidth": 2592,
+            "caption": "Here (2024)"
+          },
+          "releaseDate": "Fri, 01 Nov 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm0000158", "text": "Tom Hanks" },
+            { "id": "nm0717709", "text": "Kelly Reilly" },
+            { "id": "nm0079418", "text": "Daniel Betts" },
+            { "id": "nm0000705", "text": "Robin Wright" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt15939198",
+          "titleText": "Blitz",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYzZhNjQ2MjctNDk5Yi00MDgxLWE2OTUtMzQ1Zjk4ZDlhZGJiXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1592,
+            "maxWidth": 3840,
+            "caption": "Blitz (2024)"
+          },
+          "releaseDate": "Fri, 01 Nov 2024 00:00:00 GMT",
+          "genres": ["Action", "Drama", "History"],
+          "principalCredits": [
+            { "id": "nm1519680", "text": "Saoirse Ronan" },
+            { "id": "nm6170168", "text": "Harris Dickinson" },
+            { "id": "nm7064768", "text": "Benjamin Clémentine" },
+            { "id": "nm0121755", "text": "Kathy Burke" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt21823606",
+          "titleText": "A Real Pain",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYzdmOWViZTAtZGU4MS00NWEzLWExOGUtNGU5ZjIzMmFiM2NhXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3750,
+            "maxWidth": 2556,
+            "caption": "Kieran Culkin and Jesse Eisenberg in A Real Pain (2024)"
+          },
+          "releaseDate": "Fri, 01 Nov 2024 00:00:00 GMT",
+          "genres": ["Comedy", "Drama"],
+          "principalCredits": [
+            { "id": "nm0001085", "text": "Kieran Culkin" },
+            { "id": "nm0251986", "text": "Jesse Eisenberg" },
+            { "id": "nm6159473", "text": "Olha Bosova" },
+            { "id": "nm15725065", "text": "Banner Eisenberg" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt13176330",
+          "titleText": "Hitpig",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjdlYTJjNWEtYjdkOS00ODUzLWEwMGItYjY3OWNkNWM2ZDc1XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 6075,
+            "maxWidth": 4125,
+            "caption": "Flavor Flav, RuPaul, Jason Sudeikis, Rainn Wilson, Hannah Gadsby, Anitta, and Lilly Singh in Hitpig (2024)"
+          },
+          "releaseDate": "Fri, 01 Nov 2024 00:00:00 GMT",
+          "genres": ["Animation", "Action", "Adventure"],
+          "principalCredits": [
+            { "id": "nm0837177", "text": "Jason Sudeikis" },
+            { "id": "nm0785227", "text": "Andy Serkis" },
+            { "id": "nm0933988", "text": "Rainn Wilson" },
+            { "id": "nm0038690", "text": "Lorraine Ashbourne" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt22022784",
+          "titleText": "My Dead Friend Zoe",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZmY2Y2JlNTctNDk2OS00YWQ3LWEzNzktMmM4YTdmOWVlNjc4XkEyXkFqcGdeQXVyMjE2Mjk4MTQ@._V1_.jpg",
+            "maxHeight": 1650,
+            "maxWidth": 1117,
+            "caption": "Morgan Freeman, Ed Harris, Gloria Reuben, Utkarsh Ambudkar, Natalie Morales, Sonequa Martin-Green, and Travis Kelce in My Dead Friend Zoe (2024)"
+          },
+          "releaseDate": "Fri, 01 Nov 2024 00:00:00 GMT",
+          "genres": ["Comedy", "Drama", "War"],
+          "principalCredits": [
+            { "id": "nm2792296", "text": "Sonequa Martin-Green" },
+            { "id": "nm2295540", "text": "Natalie Morales" },
+            { "id": "nm0000438", "text": "Ed Harris" },
+            { "id": "nm0000151", "text": "Morgan Freeman" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt2965408",
+          "titleText": "Lost on a Mountain in Maine",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2VkMmNmYWYtNmMxMC00ZDU3LTk3MjQtNGQ0YTAzYTA4MTZmXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 750,
+            "maxWidth": 500,
+            "caption": "Luke David Blumm in Lost on a Mountain in Maine (2024)"
+          },
+          "releaseDate": "Fri, 01 Nov 2024 00:00:00 GMT",
+          "genres": ["Adventure", "Drama", "Family"],
+          "principalCredits": [
+            { "id": "nm2624186", "text": "Caitlin FitzGerald" },
+            { "id": "nm0817027", "text": "Paul Sparks" },
+            { "id": "nm5724788", "text": "Ethan Slater" },
+            { "id": "nm9897928", "text": "Luke David Blumm" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt21387696",
+          "titleText": "The Carpenter",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTExOWQ2ZGMtYmJiNy00N2EyLWI1MTctZGRhZGZlM2NmNTAyXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 12600,
+            "maxWidth": 8100,
+            "caption": "Daz Crawford, Kameron Krebs, Kaulin Krebs, Jeff Dickamore, and Aurora Florence in The Carpenter (2023)"
+          },
+          "releaseDate": "Fri, 01 Nov 2024 00:00:00 GMT",
+          "genres": ["Action", "Drama"],
+          "principalCredits": [
+            { "id": "nm12956909", "text": "Kameron Krebs" },
+            { "id": "nm13910454", "text": "Kaulin Krebs" },
+            { "id": "nm0186743", "text": "Daz Crawford" },
+            { "id": "nm3324103", "text": "Jeff Dickamore" }
+          ],
+          "releaseYear": { "year": 2023 }
+        },
+        {
+          "id": "tt8337290",
+          "titleText": "Absolution",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 01 Nov 2024 00:00:00 GMT",
+          "genres": ["Action", "Crime", "Mystery"],
+          "principalCredits": [
+            { "id": "nm0000553", "text": "Liam Neeson" },
+            { "id": "nm0000579", "text": "Ron Perlman" },
+            { "id": "nm8159701", "text": "Daniel Diemer" },
+            { "id": "nm0743931", "text": "Yolonda Ross" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt19556180",
+          "titleText": "21st Century Cleo",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNmI0MTZjNDEtNGRhNy00N2IxLThjY2MtYzU4YjMxNjRhZjU1XkEyXkFqcGdeQXVyMTMzMDA2NDA2._V1_.jpg",
+            "maxHeight": 1148,
+            "maxWidth": 720,
+            "caption": "21st Century Cleo (2024)"
+          },
+          "releaseDate": "Fri, 01 Nov 2024 00:00:00 GMT",
+          "genres": ["Action", "Drama", "Family"],
+          "principalCredits": [
+            { "id": "nm12629409", "text": "Miray Dogan" },
+            { "id": "nm13572233", "text": "Robert DeAngelo" },
+            { "id": "nm4788909", "text": "Julian Seager" },
+            { "id": "nm6149631", "text": "Essam Ferris" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Nov 07, 2024",
+      "entries": [
+        {
+          "id": "tt16351724",
+          "titleText": "Josephine Baker",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Thu, 07 Nov 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm3439229", "text": "Eunice Chiweshe Goldstein" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Nov 08, 2024",
+      "entries": [
+        {
+          "id": "tt20215234",
+          "titleText": "Conclave",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTlhYjg4YTYtMDJlMi00N2IzLWE5NGQtN2RmYTU5ZDdkZTE2XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1600,
+            "maxWidth": 1080,
+            "caption": "Conclave (2024)"
+          },
+          "releaseDate": "Fri, 08 Nov 2024 00:00:00 GMT",
+          "genres": ["Thriller"],
+          "principalCredits": [
+            { "id": "nm0000146", "text": "Ralph Fiennes" },
+            { "id": "nm0001804", "text": "Stanley Tucci" },
+            { "id": "nm0001475", "text": "John Lithgow" },
+            { "id": "nm0000618", "text": "Isabella Rossellini" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt28277817",
+          "titleText": "Bird",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODVhNjhjOGQtNGMzOC00ZjM5LTgzY2MtZDkxZWYyYjliNDRjXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+            "maxHeight": 2432,
+            "maxWidth": 3636,
+            "caption": "Bird (2024)"
+          },
+          "releaseDate": "Fri, 08 Nov 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm4453291", "text": "Franz Rogowski" },
+            { "id": "nm4422686", "text": "Barry Keoghan" },
+            { "id": "nm16027465", "text": "Jason Buda" },
+            { "id": "nm6157473", "text": "Jasmine Jobson" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt28142896",
+          "titleText": "Weekend in Taipei",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BY2JiNDJiN2EtNGRlNC00ODE2LTgwNmQtOGFiZTk0NjZlMmFhXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1634,
+            "maxWidth": 1200,
+            "caption": "Weekend in Taipei (2024)"
+          },
+          "releaseDate": "Fri, 08 Nov 2024 00:00:00 GMT",
+          "genres": ["Action", "Thriller"],
+          "principalCredits": [
+            { "id": "nm1812656", "text": "Luke Evans" },
+            { "id": "nm0437646", "text": "Sung Kang" },
+            { "id": "nm1251565", "text": "Lun-Mei Gwei" },
+            { "id": "nm11898568", "text": "Wyatt Yang" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt29768335",
+          "titleText": "The Best Christmas Pageant Ever",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWNiOGY4YTgtZjg3NC00ZGMxLThmOWQtN2Y5OTNjMzNjNzRiXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 755,
+            "maxWidth": 604,
+            "caption": "The Best Christmas Pageant Ever (2024)"
+          },
+          "releaseDate": "Fri, 08 Nov 2024 00:00:00 GMT",
+          "genres": ["Adventure", "Comedy", "Drama"],
+          "principalCredits": [
+            { "id": "nm0339460", "text": "Judy Greer" },
+            { "id": "nm0334179", "text": "Lauren Graham" },
+            { "id": "nm2803399", "text": "Pete Holmes" },
+            { "id": "nm3355902", "text": "Elizabeth Tabish" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt14603848",
+          "titleText": "Overlord: The Sacred Kingdom",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNTFiZTlkOWUtM2YzYS00NTdkLTljYzUtZjBkM2FjNjZlNTRlXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 4000,
+            "maxWidth": 2828,
+            "caption": "Overlord: The Sacred Kingdom (2024)"
+          },
+          "releaseDate": "Fri, 08 Nov 2024 00:00:00 GMT",
+          "genres": ["Animation", "Action", "Adventure"],
+          "principalCredits": [
+            { "id": "nm2174227", "text": "Satoshi Hino" },
+            { "id": "nm3782945", "text": "Yumi Hara" },
+            { "id": "nm1829004", "text": "Masayuki Katô" },
+            { "id": "nm4439231", "text": "Asami Seto" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt22097094",
+          "titleText": "Love Bomb",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTYwZWRlZGEtODkxMC00YzMxLTk2M2ItNzgwOWJlYjNjZTMxXkEyXkFqcGdeQXVyMjA4MzI0Njg@._V1_.jpg",
+            "maxHeight": 3000,
+            "maxWidth": 2025,
+            "caption": "Jessie Andrews in Love Bomb (2024)"
+          },
+          "releaseDate": "Fri, 08 Nov 2024 00:00:00 GMT",
+          "genres": ["Thriller"],
+          "principalCredits": [
+            { "id": "nm1175678", "text": "Zane Holtz" },
+            { "id": "nm1966028", "text": "Josh Caras" },
+            { "id": "nm0385674", "text": "Grainger Hines" },
+            { "id": "nm7567988", "text": "Sienna Hubert-Ross" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Nov 11, 2024",
+      "entries": [
+        {
+          "id": "tt18272784",
+          "titleText": "#FamilyMan",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjJlYzRhODAtMDcyYS00M2FkLTk4MTgtNzg0MzkyNzVlZmM0XkEyXkFqcGdeQXVyNjU2MTEyNjM@._V1_.jpg",
+            "maxHeight": 9000,
+            "maxWidth": 6000,
+            "caption": "Lester Speight, Isaac C. Singleton Jr., Gregory Blair, Iyad Hajjaj, Romane Simon, and Raghuram Shetty in #FamilyMan (2024)"
+          },
+          "releaseDate": "Mon, 11 Nov 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm6632825", "text": "Raghuram Shetty" },
+            { "id": "nm0802280", "text": "Isaac C. Singleton Jr." },
+            { "id": "nm0711529", "text": "Lester Speight" },
+            { "id": "nm3111705", "text": "Iyad Hajjaj" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Nov 14, 2024",
+      "entries": [
+        {
+          "id": "tt27694684",
+          "titleText": "Saint Nick of Bethlehem",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNWE0NTMwYzUtMmZiOC00NDM0LTkyMWItZjBkYTU1NTZkY2IzXkEyXkFqcGdeQXVyMTM5MjI4Mjc@._V1_.jpg",
+            "maxHeight": 4100,
+            "maxWidth": 2700,
+            "caption": "Saint Nick of Bethlehem (2024)"
+          },
+          "releaseDate": "Thu, 14 Nov 2024 00:00:00 GMT",
+          "genres": ["Biography", "Drama", "Family"],
+          "principalCredits": [
+            { "id": "nm0736263", "text": "Daniel Roebuck" },
+            { "id": "nm0001550", "text": "Cathy Moriarty" },
+            { "id": "nm0924261", "text": "Duane Whitaker" },
+            { "id": "nm0226210", "text": "Marsha Dietlein" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Nov 15, 2024",
+      "entries": [
+        {
+          "id": "tt14948432",
+          "titleText": "Red One",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2JhM2UwMjItYzNlMC00YjhjLWJjYjUtZWI1NDMxZmMyN2YzXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 4096,
+            "maxWidth": 2765,
+            "caption": "J.K. Simmons in Red One (2024)"
+          },
+          "releaseDate": "Fri, 15 Nov 2024 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Comedy"],
+          "principalCredits": [
+            { "id": "nm0425005", "text": "Dwayne Johnson" },
+            { "id": "nm0262635", "text": "Chris Evans" },
+            { "id": "nm0005154", "text": "Lucy Liu" },
+            { "id": "nm0799777", "text": "J.K. Simmons" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt28015403",
+          "titleText": "Heretic",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYWJmNjcxYjktNGJiNC00OTk2LWExODgtZDRkYjdkNzgxMGY2XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1524,
+            "maxWidth": 1290,
+            "caption": "Heretic (2024)"
+          },
+          "releaseDate": "Fri, 15 Nov 2024 00:00:00 GMT",
+          "genres": ["Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0000424", "text": "Hugh Grant" },
+            { "id": "nm7393303", "text": "Sophie Thatcher" },
+            { "id": "nm5557379", "text": "Chloe East" },
+            { "id": "nm8236642", "text": "Elle McKinnon" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt25052668",
+          "titleText": "Christmas Eve in Miller's Point",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNmYyZmM5OGItMjFkNS00YWFhLTgzMTYtNmNkNTAwZDJlYmMyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+            "maxHeight": 1067,
+            "maxWidth": 800,
+            "caption": "Christmas Eve in Miller's Point (2024)"
+          },
+          "releaseDate": "Fri, 15 Nov 2024 00:00:00 GMT",
+          "genres": ["Comedy", "Drama"],
+          "principalCredits": [
+            { "id": "nm0148418", "text": "Michael Cera" },
+            { "id": "nm3220568", "text": "Elsie Fisher" },
+            { "id": "nm1978694", "text": "Maria Dizzia" },
+            { "id": "nm0791570", "text": "Ben Shenkman" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Nov 21, 2024",
+      "entries": [
+        {
+          "id": "tt10994444",
+          "titleText": "STZ",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjUzNDhjNWEtOGM1ZS00YzQ3LWI2M2YtZmYyMjRlMjZlYjFhXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 10800,
+            "maxWidth": 7200,
+            "caption": "STZ (2024)"
+          },
+          "releaseDate": "Thu, 21 Nov 2024 00:00:00 GMT",
+          "genres": ["Comedy", "Horror", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm12913807", "text": "Alexis Baca" },
+            { "id": "nm12432474", "text": "David Siracusa" },
+            { "id": "nm12376959", "text": "Emily Rose Hernandez" },
+            { "id": "nm11075033", "text": "Bronsonn Taylor" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Nov 22, 2024",
+      "entries": [
+        {
+          "id": "tt9218128",
+          "titleText": "Gladiator II",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODVlNzZmOWUtNTNhNC00YzczLTg5NzAtOThlZjViZDkwYTIzXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3000,
+            "maxWidth": 2025,
+            "caption": "Paul Mescal in Gladiator II (2024)"
+          },
+          "releaseDate": "Fri, 22 Nov 2024 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Drama"],
+          "principalCredits": [
+            { "id": "nm4806449", "text": "Joseph Quinn" },
+            { "id": "nm0050959", "text": "Pedro Pascal" },
+            { "id": "nm0000243", "text": "Denzel Washington" },
+            { "id": "nm0001567", "text": "Connie Nielsen" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt1262426",
+          "titleText": "Wicked",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjk3ZjY5ZjctMWMwNC00ZjRlLTg0NTctMDlhMzYwODJiMTllXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1551,
+            "maxWidth": 1050,
+            "caption": "Ariana Grande and Cynthia Erivo in Wicked (2024)"
+          },
+          "releaseDate": "Fri, 22 Nov 2024 00:00:00 GMT",
+          "genres": ["Fantasy", "Musical", "Romance"],
+          "principalCredits": [
+            { "id": "nm7248827", "text": "Cynthia Erivo" },
+            { "id": "nm3812858", "text": "Ariana Grande" },
+            { "id": "nm0047332", "text": "Jonathan Bailey" },
+            { "id": "nm5987576", "text": "Marissa Bode" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt26237514",
+          "titleText": "Bonhoeffer: Pastor. Spy. Assassin.",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmU2MzcyNDUtYjFmMC00NzQwLTgzODUtNWQ2OTExN2ExOTdiXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1600,
+            "maxWidth": 1080,
+            "caption": "Bonhoeffer: Pastor. Spy. Assassin. (2024)"
+          },
+          "releaseDate": "Fri, 22 Nov 2024 00:00:00 GMT",
+          "genres": ["Drama", "Thriller"],
+          "principalCredits": [
+            { "id": "nm7179786", "text": "Jonas Dassler" },
+            { "id": "nm10872857", "text": "Phileas Heyblom" },
+            { "id": "nm0225944", "text": "August Diehl" },
+            { "id": "nm0001953", "text": "Moritz Bleibtreu" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Nov 27, 2024",
+      "entries": [
+        {
+          "id": "tt13622970",
+          "titleText": "Moana 2",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTU3YzdlNjQtY2ExOS00YjMyLTg2OWEtMzcwYmU0NWQzMmU1XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1462,
+            "maxWidth": 990,
+            "caption": "Dwayne Johnson, Alan Tudyk, and Auli'i Cravalho in Moana 2 (2024)"
+          },
+          "releaseDate": "Wed, 27 Nov 2024 00:00:00 GMT",
+          "genres": ["Animation", "Adventure", "Comedy"],
+          "principalCredits": [
+            { "id": "nm0425005", "text": "Dwayne Johnson" },
+            { "id": "nm7635388", "text": "Auli'i Cravalho" },
+            { "id": "nm0876138", "text": "Alan Tudyk" },
+            { "id": "nm1344302", "text": "Rachel House" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Dec 01, 2024",
+      "entries": [
+        {
+          "id": "tt13499272",
+          "titleText": "From the Ashes",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDQxOWJiMGUtMzhjZi00NTNjLThhYmItNGU1YjM2MGM2ZmE4XkEyXkFqcGdeQXVyMTI2NDQyOTI0._V1_.jpg",
+            "maxHeight": 2048,
+            "maxWidth": 1336,
+            "caption": "From the Ashes (2024)"
+          },
+          "releaseDate": "Sun, 01 Dec 2024 00:00:00 GMT",
+          "genres": ["Crime", "Drama", "Mystery"],
+          "principalCredits": [
+            { "id": "nm2371795", "text": "Jeanne Neilson" },
+            { "id": "nm1957436", "text": "Paul du Toit" },
+            { "id": "nm12081588", "text": "Syreeta Banks" },
+            { "id": "nm2090153", "text": "Jeremy John Wells" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt27456475",
+          "titleText": "Space Dogg",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTY1ZWE2N2YtYmVmNy00MWI2LTk3OWEtM2Y2MTY3MjBkY2JjXkEyXkFqcGdeQXVyMTIzODU3OTI1._V1_.jpg",
+            "maxHeight": 5130,
+            "maxWidth": 3480,
+            "caption": "Space Dogg (2024)"
+          },
+          "releaseDate": "Sun, 01 Dec 2024 00:00:00 GMT",
+          "genres": ["Drama", "Fantasy", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm8380569", "text": "Amber Doig-Thorne" },
+            { "id": "nm4096724", "text": "Jacob Anderton" },
+            { "id": "nm12344998", "text": "Andie Rose" },
+            { "id": "nm5705547", "text": "Verónica Gregory" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Dec 06, 2024",
+      "entries": [
+        {
+          "id": "tt27218960",
+          "titleText": "Y2K",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTQxNWJmYTEtZTMzMS00MDk1LTlkMTgtYmRhOTRmMjdkOGRiXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1500,
+            "maxWidth": 1016,
+            "caption": "Y2K (2024)"
+          },
+          "releaseDate": "Fri, 06 Dec 2024 00:00:00 GMT",
+          "genres": ["Comedy", "Horror", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm5897057", "text": "Jaeden Martell" },
+            { "id": "nm10399505", "text": "Rachel Zegler" },
+            { "id": "nm5421877", "text": "Julian Dennison" },
+            { "id": "nm6002170", "text": "Daniel Zolghadri" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt15041836",
+          "titleText": "Werewolves",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTE0ZjE0NTgtMmM3MS00Y2JjLWFlMTMtMjRjMTkxMTZlNzMwXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 5464,
+            "maxWidth": 8192,
+            "caption": "Werewolves (2024)"
+          },
+          "releaseDate": "Fri, 06 Dec 2024 00:00:00 GMT",
+          "genres": ["Action", "Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0342029", "text": "Frank Grillo" },
+            { "id": "nm0492345", "text": "Katrina Law" },
+            { "id": "nm0001617", "text": "Lou Diamond Phillips" },
+            { "id": "nm3947644", "text": "Ilfenesh Hadera" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt19861162",
+          "titleText": "The Return",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjQ1NTNmNzctMTg0Zi00MzhjLTkwOWItODIzN2EzNzg2MDRhXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1200,
+            "maxWidth": 800,
+            "caption": "The Return (2024)"
+          },
+          "releaseDate": "Fri, 06 Dec 2024 00:00:00 GMT",
+          "genres": ["History"],
+          "principalCredits": [
+            { "id": "nm0000146", "text": "Ralph Fiennes" },
+            { "id": "nm0000300", "text": "Juliette Binoche" },
+            { "id": "nm4055138", "text": "Charlie Plummer" },
+            { "id": "nm3092471", "text": "Marwan Kenzari" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt10449276",
+          "titleText": "Get Away",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 06 Dec 2024 00:00:00 GMT",
+          "genres": ["Horror"],
+          "principalCredits": [
+            { "id": "nm0296545", "text": "Nick Frost" },
+            { "id": "nm3201406", "text": "Aisling Bea" },
+            { "id": "nm7509185", "text": "Sebastian Croft" },
+            { "id": "nm0014261", "text": "Jouko Ahola" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Dec 07, 2024",
+      "entries": [
+        {
+          "id": "tt20453194",
+          "titleText": "The Satire",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2M4MzEwODYtOGJhMC00ZGNhLWFmMTQtYWUxMGJmMGE3MmJhXkEyXkFqcGdeQXVyNjE0NzgwNjk@._V1_.jpg",
+            "maxHeight": 3141,
+            "maxWidth": 2277,
+            "caption": "The Satire (2024)"
+          },
+          "releaseDate": "Sat, 07 Dec 2024 00:00:00 GMT",
+          "genres": ["Comedy", "Drama"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Dec 13, 2024",
+      "entries": [
+        {
+          "id": "tt14824600",
+          "titleText": "The Lord of the Rings: The War of the Rohirrim",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjI1NTMzNjgtYjFmOS00YzFjLTg3MTEtMDgxZTcwZTE2NDM2XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+            "maxHeight": 1600,
+            "maxWidth": 1200,
+            "caption": "The Lord of the Rings: The War of the Rohirrim (2024)"
+          },
+          "releaseDate": "Fri, 13 Dec 2024 00:00:00 GMT",
+          "genres": ["Animation", "Action", "Adventure"],
+          "principalCredits": [
+            { "id": "nm0004051", "text": "Brian Cox" },
+            { "id": "nm0001584", "text": "Miranda Otto" },
+            { "id": "nm0233215", "text": "Shaun Dooley" },
+            { "id": "nm3297698", "text": "Luke Pasqualino" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt8790086",
+          "titleText": "Kraven the Hunter",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDU0YTI5ODAtN2NmMS00YTg3LTgyNDItN2RmOWEzOTkzZjcyXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 4096,
+            "maxWidth": 2763,
+            "caption": "Aaron Taylor-Johnson in Kraven the Hunter (2024)"
+          },
+          "releaseDate": "Fri, 13 Dec 2024 00:00:00 GMT",
+          "genres": ["Action", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0000128", "text": "Russell Crowe" },
+            { "id": "nm1093951", "text": "Aaron Taylor-Johnson" },
+            { "id": "nm9538520", "text": "Fred Hechinger" },
+            { "id": "nm3571592", "text": "Christopher Abbott" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Dec 20, 2024",
+      "entries": [
+        {
+          "id": "tt29439114",
+          "titleText": "The Room Next Door",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYzk2MjI1YTgtOTcxYS00OTUyLTgyOTAtMGE0OGYyMjc0MTc3XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2866,
+            "maxWidth": 1934,
+            "caption": "Julianne Moore and Tilda Swinton in The Room Next Door (2024)"
+          },
+          "releaseDate": "Fri, 20 Dec 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm0000194", "text": "Julianne Moore" },
+            { "id": "nm0842770", "text": "Tilda Swinton" },
+            { "id": "nm0001806", "text": "John Turturro" },
+            { "id": "nm5405979", "text": "Alex Høgh Andersen" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt13186482",
+          "titleText": "Mufasa: The Lion King",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjg1YzI5ZmQtZjZkOC00ZDMzLWI4YjYtMmY5MzZjYWE3YzhjXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3704,
+            "maxWidth": 2500,
+            "caption": "Aaron Pierre and Braelyn Rankins in Mufasa: The Lion King (2024)"
+          },
+          "releaseDate": "Fri, 20 Dec 2024 00:00:00 GMT",
+          "genres": ["Animation", "Adventure", "Drama"],
+          "principalCredits": [
+            { "id": "nm7543974", "text": "Aaron Pierre" },
+            { "id": "nm5123156", "text": "Kelvin Harrison Jr." },
+            { "id": "nm0736622", "text": "Seth Rogen" },
+            { "id": "nm2813994", "text": "Billy Eichner" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt18259086",
+          "titleText": "Sonic the Hedgehog 3",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTkyMGFlNzMtMTljOC00ZDMyLWE5NWItMzVjMDZmNzA2Yjc2XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3000,
+            "maxWidth": 2024,
+            "caption": "Keanu Reeves and Ben Schwartz in Sonic the Hedgehog 3 (2024)"
+          },
+          "releaseDate": "Fri, 20 Dec 2024 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Comedy"],
+          "principalCredits": [
+            { "id": "nm2355635", "text": "Ben Schwartz" },
+            { "id": "nm0642601", "text": "Colleen O'Shaughnessey" },
+            { "id": "nm0252961", "text": "Idris Elba" },
+            { "id": "nm0000206", "text": "Keanu Reeves" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt29137778",
+          "titleText": "Homestead",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2JmMzZiNzAtMzdiMy00NzgxLTk5MGQtNWEzYmRhOGI1MGI0XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2160,
+            "maxWidth": 1458,
+            "caption": "Neal McDonough in Homestead (2024)"
+          },
+          "releaseDate": "Fri, 20 Dec 2024 00:00:00 GMT",
+          "genres": ["Action", "Drama"],
+          "principalCredits": [
+            { "id": "nm0568180", "text": "Neal McDonough" },
+            { "id": "nm1685408", "text": "Dawn Olivieri" },
+            { "id": "nm0592874", "text": "Susan Misner" },
+            { "id": "nm0003082", "text": "Bailey Chase" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Dec 21, 2024",
+      "entries": [
+        {
+          "id": "tt12263272",
+          "titleText": "Elephant Steps",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODYxNjRmY2UtMGIwNC00MTU2LWEwMmUtM2U5YzdkYjY3Y2RhXkEyXkFqcGdeQXVyNjMxMjg5MzA@._V1_.jpg",
+            "maxHeight": 2245,
+            "maxWidth": 1587,
+            "caption": "Elephant Steps (2024)"
+          },
+          "releaseDate": "Sat, 21 Dec 2024 00:00:00 GMT",
+          "genres": ["Adventure", "Drama"],
+          "principalCredits": [
+            { "id": "nm1731629", "text": "Engin Altan Düzyatan" },
+            { "id": "nm1744944", "text": "Didier Drogba" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Dec 25, 2024",
+      "entries": [
+        {
+          "id": "tt5040012",
+          "titleText": "Nosferatu",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmFmZjY5ZmUtZGU1Ny00ZTM4LTlmZmItYTg1MDkwZjA1ZDcwXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1600,
+            "maxWidth": 1080,
+            "caption": "Nosferatu (2024)"
+          },
+          "releaseDate": "Wed, 25 Dec 2024 00:00:00 GMT",
+          "genres": ["Fantasy", "Horror", "Mystery"],
+          "principalCredits": [
+            { "id": "nm10128408", "text": "Emma Corrin" },
+            { "id": "nm0803889", "text": "Bill Skarsgård" },
+            { "id": "nm1093951", "text": "Aaron Taylor-Johnson" },
+            { "id": "nm0396558", "text": "Nicholas Hoult" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt11563598",
+          "titleText": "A Complete Unknown",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjNiZDBmNTItYzE4ZS00ZmE1LThlZDAtODA0OWRjZTAxOTMzXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2000,
+            "maxWidth": 1334,
+            "caption": "Timothée Chalamet in A Complete Unknown (2024)"
+          },
+          "releaseDate": "Wed, 25 Dec 2024 00:00:00 GMT",
+          "genres": ["Biography", "Drama", "Music"],
+          "principalCredits": [
+            { "id": "nm0001570", "text": "Edward Norton" },
+            { "id": "nm3154303", "text": "Timothée Chalamet" },
+            { "id": "nm2933542", "text": "Boyd Holbrook" },
+            { "id": "nm1102577", "text": "Elle Fanning" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt30057084",
+          "titleText": "Babygirl",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOGIwYzE4YmQtZTIyNC00MjZmLWE3YTktMjA5ZTM5MjI1NWNmXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1062,
+            "maxWidth": 1848,
+            "caption": "Nicole Kidman and Harris Dickinson in Babygirl (2024)"
+          },
+          "releaseDate": "Wed, 25 Dec 2024 00:00:00 GMT",
+          "genres": ["Crime", "Mystery", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0000173", "text": "Nicole Kidman" },
+            { "id": "nm6170168", "text": "Harris Dickinson" },
+            { "id": "nm0000104", "text": "Antonio Banderas" },
+            { "id": "nm12145223", "text": "Sophie Wilde" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt6133444",
+          "titleText": "The Fire Inside",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Wed, 25 Dec 2024 00:00:00 GMT",
+          "genres": ["Biography", "Comedy", "Drama"],
+          "principalCredits": [
+            { "id": "nm3629113", "text": "Ryan Destiny" },
+            { "id": "nm12380497", "text": "Jazmin Headley" },
+            { "id": "nm10982010", "text": "Kylee D. Allen" },
+            { "id": "nm3109964", "text": "Brian Tyree Henry" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt10921118",
+          "titleText": "The Street Avenger",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjU5OTFiOTQtNGM5Ny00MTNiLWFhZjUtODAyMmVmMDM5OTc4XkEyXkFqcGdeQXVyMzE2NDI5NzI@._V1_.jpg",
+            "maxHeight": 731,
+            "maxWidth": 484,
+            "caption": "The Street Avenger (2024)"
+          },
+          "releaseDate": "Wed, 25 Dec 2024 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Crime"],
+          "principalCredits": [
+            { "id": "nm0802280", "text": "Isaac C. Singleton Jr." },
+            { "id": "nm12432474", "text": "David Siracusa" },
+            { "id": "nm12376959", "text": "Emily Rose Hernandez" },
+            { "id": "nm4909958", "text": "Matthew Clark \"Ghost\"" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Dec 29, 2024",
+      "entries": [
+        {
+          "id": "tt10209920",
+          "titleText": "Alien Wars: Judgement Day",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjc5ZGQwNjMtNGI3NC00Yzg3LTk4MjktMDgwYTcyZDhhNmRmXkEyXkFqcGdeQXVyMjE2MzA5MDI@._V1_.jpg",
+            "maxHeight": 12300,
+            "maxWidth": 8200,
+            "caption": "Alien Wars: Judgement Day (2024)"
+          },
+          "releaseDate": "Sun, 29 Dec 2024 00:00:00 GMT",
+          "genres": ["Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm0357405", "text": "Donna Hamblin" },
+            { "id": "nm3782241", "text": "Nick Dent" },
+            { "id": "nm1778060", "text": "Luc Bernier" },
+            { "id": "nm10633752", "text": "Kourtney Brady" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Dec 30, 2024",
+      "entries": [
+        {
+          "id": "tt9810236",
+          "titleText": "Apophis 2029",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjA3NGE5MTctYjljZi00ZjkyLWI0ZWMtZjYzODRkZDc1NTVlXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 4320,
+            "maxWidth": 2880,
+            "caption": "Apophis 2029 (2024)"
+          },
+          "releaseDate": "Mon, 30 Dec 2024 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm3550868", "text": "Jeffrey Schneider" },
+            { "id": "nm2179940", "text": "Geno Romo" },
+            { "id": "nm3782241", "text": "Nick Dent" },
+            { "id": "nm3501643", "text": "Marzell Sampson" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Jan 01, 2025",
+      "entries": [
+        {
+          "id": "tt30766582",
+          "titleText": "Screamboat",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTEyMDJmZjMtOWMwZi00NmEzLWI1Y2YtYjljMDY1YTk5NTYxXkEyXkFqcGdeQXVyMTgwNDQyNzc1._V1_.jpg",
+            "maxHeight": 1600,
+            "maxWidth": 1066,
+            "caption": "David Howard Thornton in Screamboat (2025)"
+          },
+          "releaseDate": "Wed, 01 Jan 2025 00:00:00 GMT",
+          "genres": ["Comedy", "Horror"],
+          "principalCredits": [
+            { "id": "nm7476686", "text": "David Howard Thornton" },
+            { "id": "nm2743389", "text": "Jesse Kove" },
+            { "id": "nm0694052", "text": "Charles Edwin Powell" },
+            { "id": "nm5107315", "text": "Jesse Posey" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt28212637",
+          "titleText": "Grind",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTVmYzViZTUtNWQ5Yy00YTI3LWI3NWYtNGU3YzgwODllZGI3XkEyXkFqcGdeQXVyMTIyMTk5OTY@._V1_.jpg",
+            "maxHeight": 3113,
+            "maxWidth": 2263,
+            "caption": "Grind (2025)"
+          },
+          "releaseDate": "Wed, 01 Jan 2025 00:00:00 GMT",
+          "genres": ["Horror"],
+          "principalCredits": [
+            { "id": "nm0000259", "text": "Ginger Lynn" },
+            { "id": "nm0741378", "text": "Felissa Rose" },
+            { "id": "nm0523344", "text": "Lynn Lowry" },
+            { "id": "nm13528831", "text": "August Kyss" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jan 17, 2025",
+      "entries": [
+        {
+          "id": "tt27681354",
+          "titleText": "In the Grey",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 17 Jan 2025 00:00:00 GMT",
+          "genres": ["Action", "Drama"],
+          "principalCredits": [
+            { "id": "nm2555462", "text": "Eiza González" },
+            { "id": "nm0147147", "text": "Henry Cavill" },
+            { "id": "nm0350453", "text": "Jake Gyllenhaal" },
+            { "id": "nm0683253", "text": "Rosamund Pike" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt5822536",
+          "titleText": "Paddington in Peru",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGI1NDA3NDctNjFmZS00MjgyLWFkNzYtMzc5YzZjN2JkYWQ5XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2880,
+            "maxWidth": 1944,
+            "caption": "Ben Whishaw in Paddington in Peru (2024)"
+          },
+          "releaseDate": "Fri, 17 Jan 2025 00:00:00 GMT",
+          "genres": ["Adventure", "Comedy", "Family"],
+          "principalCredits": [
+            { "id": "nm1469236", "text": "Olivia Colman" },
+            { "id": "nm0607865", "text": "Emily Mortimer" },
+            { "id": "nm0000104", "text": "Antonio Banderas" },
+            { "id": "nm0000980", "text": "Jim Broadbent" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt4216984",
+          "titleText": "Wolf Man",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 17 Jan 2025 00:00:00 GMT",
+          "genres": ["Horror"],
+          "principalCredits": [
+            { "id": "nm3400186", "text": "Julia Garner" },
+            { "id": "nm3571592", "text": "Christopher Abbott" },
+            { "id": "nm0415382", "text": "Sam Jaeger" },
+            { "id": "nm12609181", "text": "Matilda Firth" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt9150192",
+          "titleText": "Levon's Trade",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 17 Jan 2025 00:00:00 GMT",
+          "genres": ["Action", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0005458", "text": "Jason Statham" },
+            { "id": "nm1092086", "text": "David Harbour" },
+            { "id": "nm1631384", "text": "Emmett J Scanlan" },
+            { "id": "nm0671567", "text": "Michael Peña" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt14260836",
+          "titleText": "Better Man",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzViYWZiYmQtOWYwYS00MzU0LTlkMTAtODhmOWFmYmQyOGJhXkEyXkFqcGdeQXVyOTIxNjk1NTU@._V1_.jpg",
+            "maxHeight": 893,
+            "maxWidth": 1080,
+            "caption": "Better Man (2024)"
+          },
+          "releaseDate": "Fri, 17 Jan 2025 00:00:00 GMT",
+          "genres": ["Biography", "Drama", "Music"],
+          "principalCredits": [
+            { "id": "nm0380632", "text": "Damon Herriman" },
+            { "id": "nm2078666", "text": "Kate Mulvany" },
+            { "id": "nm0671487", "text": "Steve Pemberton" },
+            { "id": "nm0824102", "text": "Alison Steadman" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Jan 24, 2025",
+      "entries": [
+        {
+          "id": "tt28249919",
+          "titleText": "Presence",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzY1Y2ZiNjEtYmZmNy00ODM0LWJmM2MtZGU1M2Y1NGQ1N2NhXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2048,
+            "maxWidth": 1348,
+            "caption": "Presence (2024)"
+          },
+          "releaseDate": "Fri, 24 Jan 2025 00:00:00 GMT",
+          "genres": ["Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0005154", "text": "Lucy Liu" },
+            { "id": "nm9681752", "text": "Julia Fox" },
+            { "id": "nm2884388", "text": "Chris Sullivan" },
+            { "id": "nm1306097", "text": "Lucas Papaelias" }
+          ],
+          "releaseYear": { "year": 2024 }
+        },
+        {
+          "id": "tt21442114",
+          "titleText": "Valiant One",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 24 Jan 2025 00:00:00 GMT",
+          "genres": ["Thriller"],
+          "principalCredits": [
+            { "id": "nm6795924", "text": "Chase Stokes" },
+            { "id": "nm7093076", "text": "Lana Condor" },
+            { "id": "nm3210828", "text": "Desmin Borges" },
+            { "id": "nm8502377", "text": "Daniel Jun" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jan 31, 2025",
+      "entries": [
+        {
+          "id": "tt12299608",
+          "titleText": "Mickey 17",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTBjYTY3NWYtMjM2MS00ZDQ5LWFlZmMtYThhNjg2Mjk0Y2YzXkEyXkFqcGdeQXVyMTU5Njc1OTUw._V1_.jpg",
+            "maxHeight": 1274,
+            "maxWidth": 1283,
+            "caption": "Robert Pattinson in Mickey 17 (2025)"
+          },
+          "releaseDate": "Fri, 31 Jan 2025 00:00:00 GMT",
+          "genres": ["Adventure", "Drama", "Fantasy"],
+          "principalCredits": [
+            { "id": "nm7609875", "text": "Naomi Ackie" },
+            { "id": "nm1500155", "text": "Robert Pattinson" },
+            { "id": "nm0749263", "text": "Mark Ruffalo" },
+            { "id": "nm0001057", "text": "Toni Collette" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt10954718",
+          "titleText": "Dog Man",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 31 Jan 2025 00:00:00 GMT",
+          "genres": ["Animation", "Adventure", "Comedy"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Feb 02, 2025",
+      "entries": [
+        {
+          "id": "tt3195548",
+          "titleText": "Game of Power",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYmVlODllNTEtZmY0ZS00N2VhLTg3MWQtMGFmMzYzNmE3ZDI0XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 449,
+            "maxWidth": 600,
+            "caption": "Game of Power (2025)"
+          },
+          "releaseDate": "Sun, 02 Feb 2025 00:00:00 GMT",
+          "genres": ["Crime", "Drama", "Mystery"],
+          "principalCredits": [
+            { "id": "nm0068551", "text": "Tobin Bell" },
+            { "id": "nm0001117", "text": "Bruce Davison" },
+            { "id": "nm0692663", "text": "John Posey" },
+            { "id": "nm8923002", "text": "Evelyn Claire" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Feb 14, 2025",
+      "entries": [
+        {
+          "id": "tt14513804",
+          "titleText": "Captain America: Brave New World",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTk2NTUxZDItN2Y1Ni00MDFjLTg4OWItMWY3M2Q2OGNiODUwXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2500,
+            "maxWidth": 1688,
+            "caption": "Captain America: Brave New World (2025)"
+          },
+          "releaseDate": "Fri, 14 Feb 2025 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm0000148", "text": "Harrison Ford" },
+            { "id": "nm0002064", "text": "Giancarlo Esposito" },
+            { "id": "nm0000239", "text": "Liv Tyler" },
+            { "id": "nm4023073", "text": "Rosa Salazar" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt32063050",
+          "titleText": "Bridget Jones: Mad About the Boy",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmM3MDc5ZGEtYzMwMi00MjQxLTgyMDAtMDAwY2UwMjdmMTIyXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 900,
+            "maxWidth": 720,
+            "caption": "Renée Zellweger in Bridget Jones: Mad About the Boy (2025)"
+          },
+          "releaseDate": "Fri, 14 Feb 2025 00:00:00 GMT",
+          "genres": ["Comedy", "Drama", "Romance"],
+          "principalCredits": [
+            { "id": "nm0000250", "text": "Renée Zellweger" },
+            { "id": "nm0000668", "text": "Emma Thompson" },
+            { "id": "nm0000424", "text": "Hugh Grant" },
+            { "id": "nm3355536", "text": "Leila Farzad" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt18069420",
+          "titleText": "The Smurfs Movie",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOGMyMjgyOGQtNjZjMS00NTdmLWE4YjktOWUwZDgwZjFkMTc2XkEyXkFqcGdeQXVyMTE0MjIxNjQx._V1_.jpg",
+            "maxHeight": 1080,
+            "maxWidth": 1080,
+            "caption": "The Smurfs Movie (2025)"
+          },
+          "releaseDate": "Fri, 14 Feb 2025 00:00:00 GMT",
+          "genres": ["Animation", "Adventure", "Comedy"],
+          "principalCredits": [
+            { "id": "nm1821446", "text": "Hannah Waddingham" },
+            { "id": "nm0644406", "text": "Nick Offerman" },
+            { "id": "nm0005169", "text": "Natasha Lyonne" },
+            { "id": "nm0000621", "text": "Kurt Russell" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt26597666",
+          "titleText": "Verona's Romeo & Juliet",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjZmNGM3ZGMtMmY0Mi00MDAzLTk1ZWItM2IxZjdmMDExYjRmXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+            "maxHeight": 3351,
+            "maxWidth": 8000,
+            "caption": "Verona's Romeo & Juliet (2025)"
+          },
+          "releaseDate": "Fri, 14 Feb 2025 00:00:00 GMT",
+          "genres": ["Drama", "Musical", "Romance"],
+          "principalCredits": [
+            { "id": "nm0005042", "text": "Jason Isaacs" },
+            { "id": "nm0000391", "text": "Rupert Everett" },
+            { "id": "nm2313103", "text": "Rebel Wilson" },
+            { "id": "nm0001394", "text": "Derek Jacobi" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Feb 21, 2025",
+      "entries": [
+        {
+          "id": "tt27714946",
+          "titleText": "The Monkey",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDIxYzI0OGQtZTZmZS00ZDU5LWI0Y2YtNzc5ZTk2NzMwMDM0XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2330,
+            "maxWidth": 1667,
+            "caption": "The Monkey (2025)"
+          },
+          "releaseDate": "Fri, 21 Feb 2025 00:00:00 GMT",
+          "genres": ["Horror"],
+          "principalCredits": [
+            { "id": "nm3772243", "text": "Theo James" },
+            { "id": "nm0674020", "text": "Osgood Perkins" },
+            { "id": "nm1137209", "text": "Tatiana Maslany" },
+            { "id": "nm0000704", "text": "Elijah Wood" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt5181260",
+          "titleText": "The Unbreakable Boy",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjFkMGNkMDEtNDdjYy00YjYwLTk3MjMtNGI2NTAyM2ZmMWY3XkEyXkFqcGdeQXVyMTMwMDA5ODU3._V1_.jpg",
+            "maxHeight": 1350,
+            "maxWidth": 1080,
+            "caption": "Jacob Laval in The Unbreakable Boy (2025)"
+          },
+          "releaseDate": "Fri, 21 Feb 2025 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm1157048", "text": "Zachary Levi" },
+            { "id": "nm0009918", "text": "Amy Acker" },
+            { "id": "nm0005004", "text": "Patricia Heaton" },
+            { "id": "nm3627601", "text": "Meghann Fahy" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Feb 28, 2025",
+      "entries": [
+        {
+          "id": "tt14403504",
+          "titleText": "Last Breath",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 28 Feb 2025 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm4855517", "text": "Simu Liu" },
+            { "id": "nm0000437", "text": "Woody Harrelson" },
+            { "id": "nm6806440", "text": "Finn Cole" },
+            { "id": "nm9291602", "text": "Christian Scicluna" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Mar 07, 2025",
+      "entries": [
+        {
+          "id": "tt31193180",
+          "titleText": "Untitled Ryan Coogler / Michael B. Jordan Film",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 07 Mar 2025 00:00:00 GMT",
+          "genres": ["Drama", "Fantasy", "Horror"],
+          "principalCredits": [
+            { "id": "nm2794962", "text": "Hailee Steinfeld" },
+            { "id": "nm1925239", "text": "Jack O'Connell" },
+            { "id": "nm0430107", "text": "Michael B. Jordan" },
+            { "id": "nm2148911", "text": "Wunmi Mosaku" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt31938521",
+          "titleText": "Roblox Movie",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYWRhNmRjNmYtMWY2YS00MGI1LTk3OGMtMTE2ZjYzNDdmNDlmXkEyXkFqcGdeQXVyMTU1MzAzMTkx._V1_.jpg",
+            "maxHeight": 2268,
+            "maxWidth": 4032,
+            "caption": "Roblox Movie (2025)"
+          },
+          "releaseDate": "Fri, 07 Mar 2025 00:00:00 GMT",
+          "genres": ["Animation", "Action", "Adventure"],
+          "principalCredits": [{ "id": "nm14666709", "text": "Zack Avery" }],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Mar 14, 2025",
+      "entries": [
+        {
+          "id": "tt29603959",
+          "titleText": "Novocaine",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 14 Mar 2025 00:00:00 GMT",
+          "genres": ["Action", "Comedy", "Thriller"],
+          "principalCredits": [
+            { "id": "nm4425051", "text": "Jack Quaid" },
+            { "id": "nm1690270", "text": "Amber Midthunder" },
+            { "id": "nm0909768", "text": "Matt Walsh" },
+            { "id": "nm8188622", "text": "Jacob Batalon" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Mar 15, 2025",
+      "entries": [
+        {
+          "id": "tt30988739",
+          "titleText": "Black Bag",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGU4Y2E0MmEtZDA2Mi00MjljLTlhODQtYWMzZmQzMTRjZmJiXkEyXkFqcGdeQXVyNjYxNjc0OTc@._V1_.jpg",
+            "maxHeight": 2142,
+            "maxWidth": 1170,
+            "caption": "Black Bag (2025)"
+          },
+          "releaseDate": "Sat, 15 Mar 2025 00:00:00 GMT",
+          "genres": ["Thriller"],
+          "principalCredits": [
+            { "id": "nm0121895", "text": "Tom Burke" },
+            { "id": "nm3312312", "text": "Marisa Abela" },
+            { "id": "nm1055413", "text": "Michael Fassbender" },
+            { "id": "nm0000949", "text": "Cate Blanchett" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Mar 21, 2025",
+      "entries": [
+        {
+          "id": "tt6208148",
+          "titleText": "Snow White",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTQ1OTliZWItMzE5Zi00YzA5LTgzN2ItZjA5MjQ1ZGU3YjE2XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2500,
+            "maxWidth": 1688,
+            "caption": "Rachel Zegler in Snow White (2025)"
+          },
+          "releaseDate": "Fri, 21 Mar 2025 00:00:00 GMT",
+          "genres": ["Adventure", "Family", "Fantasy"],
+          "principalCredits": [
+            { "id": "nm10399505", "text": "Rachel Zegler" },
+            { "id": "nm2933757", "text": "Gal Gadot" },
+            { "id": "nm8084427", "text": "Andrew Burnap" },
+            { "id": "nm13851885", "text": "Eddison Burch" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt21815562",
+          "titleText": "Alto Knights",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 21 Mar 2025 00:00:00 GMT",
+          "genres": ["Biography", "Crime", "Drama"],
+          "principalCredits": [
+            { "id": "nm0000134", "text": "Robert De Niro" },
+            { "id": "nm4008605", "text": "Cosmo Jarvis" },
+            { "id": "nm0005226", "text": "Debra Messing" },
+            { "id": "nm0621393", "text": "Kathrine Narducci" }
+          ],
+          "releaseYear": { "year": 2024 }
+        }
+      ]
+    },
+    {
+      "group": "Mar 28, 2025",
+      "entries": [
+        {
+          "id": "tt31314296",
+          "titleText": "The Woman in the Yard",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 28 Mar 2025 00:00:00 GMT",
+          "genres": ["Drama", "Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0395203", "text": "Russell Hornsby" },
+            { "id": "nm4314990", "text": "Danielle Deadwyler" },
+            { "id": "nm1854135", "text": "Okwui Okpokwasili" },
+            { "id": "nm9848596", "text": "Peyton Jackson" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Mar 30, 2025",
+      "entries": [
+        {
+          "id": "tt11846550",
+          "titleText": "Kayara",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTNmNjkxM2YtNDU4Yy00ZjM3LWI1ZjItZDEwYTY2MWVlOTM2XkEyXkFqcGdeQXVyMTEzODgxOTk4._V1_.jpg",
+            "maxHeight": 1035,
+            "maxWidth": 700,
+            "caption": "Kayara (2025)"
+          },
+          "releaseDate": "Sun, 30 Mar 2025 00:00:00 GMT",
+          "genres": ["Animation"],
+          "principalCredits": [
+            { "id": "nm10259997", "text": "Naomi Serrano" },
+            { "id": "nm4662429", "text": "Nate Begle" },
+            { "id": "nm6824464", "text": "Charles Gonzales" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Apr 04, 2025",
+      "entries": [
+        {
+          "id": "tt3566834",
+          "titleText": "Minecraft: The Movie",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2MxNDUzNGQtOWNkOS00NmJiLThjOTEtYTlmYjZlZDIyMmZiXkEyXkFqcGdeQXVyMTI3NjAxODc0._V1_.jpg",
+            "maxHeight": 1602,
+            "maxWidth": 1080,
+            "caption": "Minecraft: The Movie (2025)"
+          },
+          "releaseDate": "Fri, 04 Apr 2025 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Family"],
+          "principalCredits": [
+            { "id": "nm5335029", "text": "Danielle Brooks" },
+            { "id": "nm0571952", "text": "Kate McKinnon" },
+            { "id": "nm1318596", "text": "Jemaine Clement" },
+            { "id": "nm3528821", "text": "Emma Myers" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt6857072",
+          "titleText": "Bonhoeffer: Holy Traitor",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2YyMjIzNDUtZjYxMy00MjNhLThmMTItMzFiMWExM2YwYzM0XkEyXkFqcGdeQXVyMTM5MjI4Mjc@._V1_.jpg",
+            "maxHeight": 1875,
+            "maxWidth": 1275,
+            "caption": "Bonhoeffer: Holy Traitor (2025)"
+          },
+          "releaseDate": "Fri, 04 Apr 2025 00:00:00 GMT",
+          "genres": ["Adventure", "Biography", "Drama"],
+          "principalCredits": [
+            { "id": "nm0736263", "text": "Daniel Roebuck" },
+            { "id": "nm3598225", "text": "Nathan Clarkson" },
+            { "id": "nm2090153", "text": "Jeremy John Wells" },
+            { "id": "nm8362756", "text": "Matt Grossman" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Apr 10, 2025",
+      "entries": [
+        {
+          "id": "tt8405898",
+          "titleText": "Delfino's Journey",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNWY1MGRlY2EtOGVlNC00MzVkLWFjMjktZjEwNmYwY2Q1MWE1XkEyXkFqcGdeQXVyNDAzMDAwMjk@._V1_.jpg",
+            "maxHeight": 9000,
+            "maxWidth": 6075,
+            "caption": "Delfino's Journey (2025)"
+          },
+          "releaseDate": "Thu, 10 Apr 2025 00:00:00 GMT",
+          "genres": ["Crime", "Drama", "Thriller"],
+          "principalCredits": [
+            { "id": "nm8901592", "text": "Renata Vaca" },
+            { "id": "nm5041191", "text": "Julio Macias" },
+            { "id": "nm0520199", "text": "Sal Lopez" },
+            { "id": "nm1015884", "text": "Giovanna Zacarías" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt10670022",
+          "titleText": "The Perfect Destiny",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjdiMTY3ZmMtMmFhNi00NDZmLWE3MjctMDU1ZTM5NDk4MzIyXkEyXkFqcGdeQXVyMTk5MTgxNjk@._V1_.jpg",
+            "maxHeight": 3226,
+            "maxWidth": 2128,
+            "caption": "The Perfect Destiny (2025)"
+          },
+          "releaseDate": "Thu, 10 Apr 2025 00:00:00 GMT",
+          "genres": ["Drama", "Family", "Romance"],
+          "principalCredits": [
+            { "id": "nm0000616", "text": "Eric Roberts" },
+            { "id": "nm2628561", "text": "Cassandra Scerbo" },
+            { "id": "nm0541908", "text": "Costas Mandylor" },
+            { "id": "nm0604430", "text": "Diogo Morgado" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Apr 11, 2025",
+      "entries": [
+        {
+          "id": "tt0899043",
+          "titleText": "The Amateur",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 11 Apr 2025 00:00:00 GMT",
+          "genres": ["Action", "Thriller"],
+          "principalCredits": [
+            { "id": "nm1495520", "text": "Caitríona Balfe" },
+            { "id": "nm1785339", "text": "Rami Malek" },
+            { "id": "nm0564697", "text": "Holt McCallany" },
+            { "id": "nm3014031", "text": "Rachel Brosnahan" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt32149847",
+          "titleText": "Drop",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 11 Apr 2025 00:00:00 GMT",
+          "genres": ["Thriller"],
+          "principalCredits": [
+            { "id": "nm3996999", "text": "Brandon Sklenar" },
+            { "id": "nm3627601", "text": "Meghann Fahy" },
+            { "id": "nm6556997", "text": "Violett Beane" },
+            { "id": "nm2819460", "text": "Ed Weeks" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Apr 18, 2025",
+      "entries": [
+        {
+          "id": "tt11378946",
+          "titleText": "Michael",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTU3ZDhjODUtODEwMy00OWRmLWIyZDUtNTc4NjNiOWU5MzNjXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3600,
+            "maxWidth": 2400,
+            "caption": "Jaafar Jackson in Michael (2025)"
+          },
+          "releaseDate": "Fri, 18 Apr 2025 00:00:00 GMT",
+          "genres": ["Biography", "Drama", "History"],
+          "principalCredits": [
+            { "id": "nm1886602", "text": "Miles Teller" },
+            { "id": "nm0231458", "text": "Colman Domingo" },
+            { "id": "nm0334159", "text": "Kat Graham" },
+            { "id": "nm0000505", "text": "Nia Long" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Apr 25, 2025",
+      "entries": [
+        {
+          "id": "tt7068946",
+          "titleText": "The Accountant 2",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 25 Apr 2025 00:00:00 GMT",
+          "genres": ["Action", "Crime", "Drama"],
+          "principalCredits": [
+            { "id": "nm0000255", "text": "Ben Affleck" },
+            { "id": "nm0799777", "text": "J.K. Simmons" },
+            { "id": "nm1256532", "text": "Jon Bernthal" },
+            { "id": "nm1870963", "text": "Cynthia Addai-Robinson" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "May 02, 2025",
+      "entries": [
+        {
+          "id": "tt20969586",
+          "titleText": "Thunderbolts*",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzdkNzFhMDAtNWVhNC00MDM5LTllYzktMWFkN2Q0ZWFlYWZkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+            "maxHeight": 6000,
+            "maxWidth": 4050,
+            "caption": "Thunderbolts* (2025)"
+          },
+          "releaseDate": "Fri, 02 May 2025 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Crime"],
+          "principalCredits": [
+            { "id": "nm6073955", "text": "Florence Pugh" },
+            { "id": "nm5730649", "text": "Lewis Pullman" },
+            { "id": "nm1385871", "text": "Olga Kurylenko" },
+            { "id": "nm0001838", "text": "Rachel Weisz" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt8619236",
+          "titleText": "The Last Battleship",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjc5MjBmZjQtZGYxNS00ODEwLWEwNmEtOThlZjA5MmY5YjE1XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2304,
+            "maxWidth": 1728,
+            "caption": "Lew Temple, Tracee Cocco, Lexi Marie Hawks, Garrett K. Jones, Ray Rumsey, Brady Jacquin, Gurpreet Kaso Singh, Rynn Pevy, Jessica Zinkowsky, Sasikumar B., and Joe Cahill in The Last Battleship (2025)"
+          },
+          "releaseDate": "Fri, 02 May 2025 00:00:00 GMT",
+          "genres": ["Horror", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm0854702", "text": "Lew Temple" },
+            { "id": "nm1006740", "text": "Tracee Cocco" },
+            { "id": "nm15106940", "text": "Jessica Zinkowsky" },
+            { "id": "nm10764879", "text": "Lexi Marie Hawks" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "May 09, 2025",
+      "entries": [
+        {
+          "id": "tt13650700",
+          "titleText": "A Big Bold Beautiful Journey",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 09 May 2025 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [
+            { "id": "nm0268199", "text": "Colin Farrell" },
+            { "id": "nm3053338", "text": "Margot Robbie" },
+            { "id": "nm3564817", "text": "Phoebe Waller-Bridge" },
+            { "id": "nm0512934", "text": "Hamish Linklater" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt6706352",
+          "titleText": "Atlantis",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 09 May 2025 00:00:00 GMT",
+          "genres": ["Drama", "Music", "Musical"],
+          "principalCredits": [
+            { "id": "nm3109964", "text": "Brian Tyree Henry" },
+            { "id": "nm5007768", "text": "Da'Vine Joy Randolph" },
+            { "id": "nm1847117", "text": "Janelle Monáe" },
+            { "id": "nm1782991", "text": "Halle Bailey" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "May 15, 2025",
+      "entries": [
+        {
+          "id": "tt21879688",
+          "titleText": "A Guardian's Heart",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDQ2Zjk0OTMtMWVkNy00OWM2LWE4ZTAtM2NlMTdmMzhmNmEyXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2304,
+            "maxWidth": 1728,
+            "caption": "Wayne D Burdette Jr. in A Guardian's Heart (2025)"
+          },
+          "releaseDate": "Thu, 15 May 2025 00:00:00 GMT",
+          "genres": ["Action", "Romance", "Thriller"],
+          "principalCredits": [
+            { "id": "nm4573227", "text": "Chelsea Gilson" },
+            { "id": "nm12913807", "text": "Alexis Baca" },
+            { "id": "nm14129567", "text": "Frankie J. Galvez" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt12671466",
+          "titleText": "The Lost Locket",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTZmY2Y3MDItYTcxNC00ZGFhLWFmNDAtNWZkYTE5MmQzMWUxXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 2626,
+            "maxWidth": 1728,
+            "caption": "The Lost Locket (2025)"
+          },
+          "releaseDate": "Thu, 15 May 2025 00:00:00 GMT",
+          "genres": ["Drama", "Romance", "Sci-Fi"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "May 16, 2025",
+      "entries": [
+        {
+          "id": "tt27165187",
+          "titleText": "Flowervale Street",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 16 May 2025 00:00:00 GMT",
+          "genres": ["Mystery", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0004266", "text": "Anne Hathaway" },
+            { "id": "nm0000191", "text": "Ewan McGregor" },
+            { "id": "nm8087548", "text": "Christian Convery" },
+            { "id": "nm2421211", "text": "Chris Coy" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt30609082",
+          "titleText": "The Crypto: Beyond",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjkyZDZmZDYtMzRmZS00NThhLWI1MzAtNTlmNjUwZWE4NjQwXkEyXkFqcGdeQXVyMTUwNjI3NjU5._V1_.jpg",
+            "maxHeight": 2100,
+            "maxWidth": 1400,
+            "caption": "The Crypto: Beyond (2025)"
+          },
+          "releaseDate": "Fri, 16 May 2025 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Drama"],
+          "principalCredits": [
+            { "id": "nm13713068", "text": "Joshua Carter" },
+            { "id": "nm11281856", "text": "Jace Carter" },
+            { "id": "nm15640702", "text": "Jordyn Barnett" },
+            { "id": "nm15640706", "text": "Christian Hernandez" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "May 17, 2025",
+      "entries": [
+        {
+          "id": "tt14855340",
+          "titleText": "90's Babiez",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Sat, 17 May 2025 00:00:00 GMT",
+          "genres": ["Crime", "Drama", "Thriller"],
+          "principalCredits": [
+            { "id": "nm3917233", "text": "Anna Oris" },
+            { "id": "nm7522291", "text": "Anthony Bryant" },
+            { "id": "nm12664192", "text": "Bogdan Aktamakov" },
+            { "id": "nm7511453", "text": "Melissa Lloyd-Wade" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "May 23, 2025",
+      "entries": [
+        {
+          "id": "tt9603208",
+          "titleText": "Mission: Impossible 8",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOGM1YmE1OTEtMjhjNi00OTEwLTlmN2UtNzkwMDA1ZWU2YWQ2XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1800,
+            "maxWidth": 1200,
+            "caption": "Mission: Impossible 8 (2025)"
+          },
+          "releaseDate": "Fri, 23 May 2025 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0000129", "text": "Tom Cruise" },
+            { "id": "nm3948952", "text": "Vanessa Kirby" },
+            { "id": "nm6884042", "text": "Katy O'Brian" },
+            { "id": "nm2017943", "text": "Hayley Atwell" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "May 30, 2025",
+      "entries": [
+        {
+          "id": "tt1674782",
+          "titleText": "Untitled Karate Kid Movie",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjZiZGNiZTUtODI4Yi00ZjlhLTgwNzMtNGU3NmQ3NGMwZjIxXkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_.jpg",
+            "maxHeight": 1000,
+            "maxWidth": 715,
+            "caption": "Untitled Karate Kid Movie (2025)"
+          },
+          "releaseDate": "Fri, 30 May 2025 00:00:00 GMT",
+          "genres": ["Action", "Drama", "Family"],
+          "principalCredits": [
+            { "id": "nm0005045", "text": "Joshua Jackson" },
+            { "id": "nm0000329", "text": "Jackie Chan" },
+            { "id": "nm0001494", "text": "Ralph Macchio" },
+            { "id": "nm0001840", "text": "Ming-Na Wen" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jun 06, 2025",
+      "entries": [
+        {
+          "id": "tt7181546",
+          "titleText": "Ballerina",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 06 Jun 2025 00:00:00 GMT",
+          "genres": ["Action", "Thriller"],
+          "principalCredits": [
+            { "id": "nm1869101", "text": "Ana de Armas" },
+            { "id": "nm0000206", "text": "Keanu Reeves" },
+            { "id": "nm3244078", "text": "David Castañeda" },
+            { "id": "nm0005342", "text": "Norman Reedus" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt12759152",
+          "titleText": "Dirty Dancing 2",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 06 Jun 2025 00:00:00 GMT",
+          "genres": ["Drama", "Music", "Musical"],
+          "principalCredits": [{ "id": "nm0000426", "text": "Jennifer Grey" }],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jun 10, 2025",
+      "entries": [
+        {
+          "id": "tt8639168",
+          "titleText": "Crawlers",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2YyZDYwZWEtZTI3ZS00OTE5LTljZjYtZDNhYzJkMmVhZDJkXkEyXkFqcGdeQXVyNTI2OTE2NjA@._V1_.jpg",
+            "maxHeight": 1460,
+            "maxWidth": 1028,
+            "caption": "Anniette Sharai Calderon, Luis de Lima, and Daniela Villamizar in Crawlers (2025)"
+          },
+          "releaseDate": "Tue, 10 Jun 2025 00:00:00 GMT",
+          "genres": ["Horror"],
+          "principalCredits": [
+            { "id": "nm2737097", "text": "Richard Ryan" },
+            { "id": "nm2487122", "text": "Steve Silverie" },
+            { "id": "nm9943303", "text": "Mateo de Lima" },
+            { "id": "nm9943352", "text": "Victor Garces" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jun 13, 2025",
+      "entries": [
+        {
+          "id": "tt26743210",
+          "titleText": "How to Train Your Dragon",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 13 Jun 2025 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Comedy"],
+          "principalCredits": [
+            { "id": "nm5421877", "text": "Julian Dennison" },
+            { "id": "nm13985483", "text": "Gabriel Howell" },
+            { "id": "nm8882474", "text": "Bronwyn James" },
+            { "id": "nm10036531", "text": "Harry Trevaldwyn" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt4900148",
+          "titleText": "Elio",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYmM2MGMxYTctYjc3My00NGVjLTg5YjUtYzlhMDZkNjY4YWQyXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 6154,
+            "maxWidth": 4154,
+            "caption": "Elio (2025)"
+          },
+          "releaseDate": "Fri, 13 Jun 2025 00:00:00 GMT",
+          "genres": ["Animation", "Adventure", "Comedy"],
+          "principalCredits": [
+            { "id": "nm0757855", "text": "Zoe Saldana" },
+            { "id": "nm3553139", "text": "Jameela Jamil" },
+            { "id": "nm0004951", "text": "Brad Garrett" },
+            { "id": "nm10354026", "text": "Yonas Kibreab" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jun 19, 2025",
+      "entries": [
+        {
+          "id": "tt27458104",
+          "titleText": "Becoming the Night: A Nightwing Story",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Thu, 19 Jun 2025 00:00:00 GMT",
+          "genres": ["Action"],
+          "principalCredits": [{ "id": "nm7355322", "text": "Michael Loayza" }],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jun 20, 2025",
+      "entries": [
+        {
+          "id": "tt10548174",
+          "titleText": "28 Years Later",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 20 Jun 2025 00:00:00 GMT",
+          "genres": ["Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm3069650", "text": "Jodie Comer" },
+            { "id": "nm1093951", "text": "Aaron Taylor-Johnson" },
+            { "id": "nm0614165", "text": "Cillian Murphy" },
+            { "id": "nm0000146", "text": "Ralph Fiennes" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jun 25, 2025",
+      "entries": [
+        {
+          "id": "tt26342662",
+          "titleText": "M3GAN 2.0",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDEzNWEzOTktZTdjNC00ZTBjLTk2NzctOTA3YjUzOTYwMGI2XkEyXkFqcGdeQXVyMTU1Mjg1NjEx._V1_.jpg",
+            "maxHeight": 1024,
+            "maxWidth": 768,
+            "caption": "M3GAN 2.0 (2025)"
+          },
+          "releaseDate": "Wed, 25 Jun 2025 00:00:00 GMT",
+          "genres": ["Horror", "Sci-Fi", "Thriller"],
+          "principalCredits": [
+            { "id": "nm1318596", "text": "Jemaine Clement" },
+            { "id": "nm4129745", "text": "Allison Williams" },
+            { "id": "nm2755723", "text": "Brian Jordan Alvarez" },
+            { "id": "nm4854961", "text": "Ivanna Sakhno" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt16085546",
+          "titleText": "Lost Weekend",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDg5OGY2NGQtYzMxMC00Mjk1LTlkYzUtZGJmNjY3ZDBmOWFkXkEyXkFqcGdeQXVyMjQyNDY5MzE@._V1_.jpg",
+            "maxHeight": 3840,
+            "maxWidth": 2304,
+            "caption": "Lost Weekend (2025)"
+          },
+          "releaseDate": "Wed, 25 Jun 2025 00:00:00 GMT",
+          "genres": ["Comedy"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jun 27, 2025",
+      "entries": [
+        {
+          "id": "tt28088041",
+          "titleText": "Ultimate Fighting Championship 2",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 27 Jun 2025 00:00:00 GMT",
+          "genres": ["Sport"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jun 28, 2025",
+      "entries": [
+        {
+          "id": "tt7890826",
+          "titleText": "Naya Legend of the Golden Dolphin",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTU2Mjc5YzMtZjk2ZC00MTkwLWEwYzItMzA0MWMxZWRkOTY3XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 3494,
+            "maxWidth": 2475,
+            "caption": "Naya Legend of the Golden Dolphin (2025)"
+          },
+          "releaseDate": "Sat, 28 Jun 2025 00:00:00 GMT",
+          "genres": ["Animation", "Action", "Adventure"],
+          "principalCredits": [{ "id": "nm0680983", "text": "Elliot Page" }],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jul 02, 2025",
+      "entries": [
+        {
+          "id": "tt31036941",
+          "titleText": "Jurassic World Rebirth",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjMwMDQwYmMtZDM5MS00OGVjLTgyZTctNmNiMDEyNjZhYTdiXkEyXkFqcGdeQXVyNzAyOTQ3OQ@@._V1_.jpg",
+            "maxHeight": 3034,
+            "maxWidth": 2048,
+            "caption": "Jurassic World (2015)"
+          },
+          "releaseDate": "Wed, 02 Jul 2025 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm0424060", "text": "Scarlett Johansson" },
+            { "id": "nm4534098", "text": "Ed Skrein" },
+            { "id": "nm0047332", "text": "Jonathan Bailey" },
+            { "id": "nm0991810", "text": "Mahershala Ali" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt14362186",
+          "titleText": "Untitled Universal Event Film",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2M0MmM3ZTctNmFlYi00Y2E2LWFkOWEtZGE0Mjc0NDk3NjIxXkEyXkFqcGdeQXVyMTUyNDE1NTA5._V1_.jpg",
+            "maxHeight": 720,
+            "maxWidth": 1280,
+            "caption": "Untitled Universal Event Film (2025)"
+          },
+          "releaseDate": "Wed, 02 Jul 2025 00:00:00 GMT",
+          "genres": [],
+          "principalCredits": [],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jul 04, 2025",
+      "entries": [
+        {
+          "id": "tt10826586",
+          "titleText": "Touch",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDQzYWUzY2MtZjU4MS00ZjkwLWJmM2MtNThhN2U1ZjU3M2RhXkEyXkFqcGdeQXVyMTIzODU3OTI1._V1_.jpg",
+            "maxHeight": 2700,
+            "maxWidth": 1844,
+            "caption": "Touch (2025)"
+          },
+          "releaseDate": "Fri, 04 Jul 2025 00:00:00 GMT",
+          "genres": ["Comedy", "Family", "Romance"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt4601194",
+          "titleText": "To Give or Not to Give: Reparations for Slavery",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BY2JjOTkzZDAtZmVhZi00M2U2LWFlYTQtNWFkMDc4MzJjZDUxXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 675,
+            "maxWidth": 1200,
+            "caption": "To Give or Not to Give: Reparations for Slavery (2025)"
+          },
+          "releaseDate": "Fri, 04 Jul 2025 00:00:00 GMT",
+          "genres": ["Drama"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jul 11, 2025",
+      "entries": [
+        {
+          "id": "tt5950044",
+          "titleText": "Superman: Legacy",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDg4NDRkMTEtZDZmZC00OWNmLWE2M2UtZDRiZjBkYWU1ODc3XkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 621,
+            "maxWidth": 419,
+            "caption": "Superman: Legacy (2025)"
+          },
+          "releaseDate": "Fri, 11 Jul 2025 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Fantasy"],
+          "principalCredits": [
+            { "id": "nm5097044", "text": "Isabela Merced" },
+            { "id": "nm4825178", "text": "David Corenswet" },
+            { "id": "nm6854116", "text": "Milly Alcock" },
+            { "id": "nm0277213", "text": "Nathan Fillion" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jul 18, 2025",
+      "entries": [
+        {
+          "id": "tt4045450",
+          "titleText": "I Never Forget What You Did Last Summer",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZGQzODI4YmYtYmQ0NS00NDllLTljYmItZTA2YjhkZTYzYTMzXkEyXkFqcGc@._V1_.jpg",
+            "maxHeight": 1130,
+            "maxWidth": 762,
+            "caption": "I Never Forget What You Did Last Summer (2025)"
+          },
+          "releaseDate": "Fri, 18 Jul 2025 00:00:00 GMT",
+          "genres": ["Horror", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0001349", "text": "Jennifer Love Hewitt" },
+            { "id": "nm3218692", "text": "Madelyn Cline" },
+            { "id": "nm6161516", "text": "Camila Mendes" },
+            { "id": "nm5999355", "text": "Jonah Hauer-King" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt3402138",
+          "titleText": "The Naked Gun",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 18 Jul 2025 00:00:00 GMT",
+          "genres": ["Action", "Comedy"],
+          "principalCredits": [
+            { "id": "nm0243806", "text": "Kevin Durand" },
+            { "id": "nm0000553", "text": "Liam Neeson" },
+            { "id": "nm3236159", "text": "Paul Walter Hauser" },
+            { "id": "nm0396812", "text": "Danny Huston" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Jul 25, 2025",
+      "entries": [
+        {
+          "id": "tt10676052",
+          "titleText": "The Fantastic Four: First Steps",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTg3NjllZDQtMzFhMi00YzFkLTk4ZDQtNDYzNDNiNjBhODZhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "maxHeight": 1915,
+            "maxWidth": 1500,
+            "caption": "Joseph Quinn in The Fantastic Four: First Steps (2025)"
+          },
+          "releaseDate": "Fri, 25 Jul 2025 00:00:00 GMT",
+          "genres": ["Action", "Adventure", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm0050959", "text": "Pedro Pascal" },
+            { "id": "nm3948952", "text": "Vanessa Kirby" },
+            { "id": "nm4806449", "text": "Joseph Quinn" },
+            { "id": "nm0609114", "text": "Ebon Moss-Bachrach" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Aug 01, 2025",
+      "entries": [
+        {
+          "id": "tt30017619",
+          "titleText": "The Bad Guys 2",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 01 Aug 2025 00:00:00 GMT",
+          "genres": ["Animation", "Adventure", "Comedy"],
+          "principalCredits": [
+            { "id": "nm5377144", "text": "Awkwafina" },
+            { "id": "nm6588867", "text": "Anthony Ramos" },
+            { "id": "nm5939164", "text": "Zazie Beetz" },
+            { "id": "nm0005377", "text": "Sam Rockwell" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt32362890",
+          "titleText": "Beneath the Storm",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 01 Aug 2025 00:00:00 GMT",
+          "genres": ["Thriller"],
+          "principalCredits": [
+            { "id": "nm3697443", "text": "Phoebe Dynevor" },
+            { "id": "nm0005023", "text": "Djimon Hounsou" },
+            { "id": "nm8857173", "text": "Whitney Peak" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt4292334",
+          "titleText": "Experiment 77",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNWM0MDE2YzctZjI5ZC00YTkwLWFhZDUtMTY0MWZkMzY0YTRlXkEyXkFqcGdeQXVyODE3Njk5Ng@@._V1_.jpg",
+            "maxHeight": 3780,
+            "maxWidth": 2480,
+            "caption": "Experiment 77 (2025)"
+          },
+          "releaseDate": "Fri, 01 Aug 2025 00:00:00 GMT",
+          "genres": ["Thriller"],
+          "principalCredits": [
+            { "id": "nm0726223", "text": "Richard Riehle" },
+            { "id": "nm2466842", "text": "Quinton Aaron" },
+            { "id": "nm0465777", "text": "Kim Kopf" },
+            { "id": "nm5752689", "text": "Campbell Crates" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Aug 04, 2025",
+      "entries": [
+        {
+          "id": "tt21629948",
+          "titleText": "Big Tree",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Mon, 04 Aug 2025 00:00:00 GMT",
+          "genres": ["Animation"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Aug 08, 2025",
+      "entries": [
+        {
+          "id": "tt30144839",
+          "titleText": "Untitled Paul Thomas Anderson Event Film",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjM1OTNlNzUtYTdlZi00ODI2LWFkZWUtZmEzYzY0MDI2ODcwXkEyXkFqcGdeQXVyMTM1ODY4MjU0._V1_.jpg",
+            "maxHeight": 792,
+            "maxWidth": 634,
+            "caption": "Leonardo DiCaprio and Paul Thomas Anderson in Untitled Paul Thomas Anderson Event Film (2025)"
+          },
+          "releaseDate": "Fri, 08 Aug 2025 00:00:00 GMT",
+          "genres": ["Crime", "Drama", "Thriller"],
+          "principalCredits": [
+            { "id": "nm0000138", "text": "Leonardo DiCaprio" },
+            { "id": "nm0000576", "text": "Sean Penn" },
+            { "id": "nm0001125", "text": "Benicio Del Toro" },
+            { "id": "nm0365445", "text": "Wood Harris" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt31511689",
+          "titleText": "Vicious",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 08 Aug 2025 00:00:00 GMT",
+          "genres": ["Horror"],
+          "principalCredits": [
+            { "id": "nm0266824", "text": "Dakota Fanning" },
+            { "id": "nm0005203", "text": "Mary McCormack" },
+            { "id": "nm0004761", "text": "Rachel Blanchard" },
+            { "id": "nm0402898", "text": "Kathryn Hunter" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Aug 15, 2025",
+      "entries": [
+        {
+          "id": "tt28996126",
+          "titleText": "Nobody 2",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 15 Aug 2025 00:00:00 GMT",
+          "genres": ["Action"],
+          "principalCredits": [
+            { "id": "nm0001567", "text": "Connie Nielsen" },
+            { "id": "nm0000502", "text": "Christopher Lloyd" },
+            { "id": "nm0000232", "text": "Sharon Stone" },
+            { "id": "nm0644022", "text": "Bob Odenkirk" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt31050594",
+          "titleText": "Mercy",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 15 Aug 2025 00:00:00 GMT",
+          "genres": ["Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm0272581", "text": "Rebecca Ferguson" },
+            { "id": "nm0695435", "text": "Chris Pratt" },
+            { "id": "nm1834115", "text": "Annabelle Wallis" },
+            { "id": "nm11140905", "text": "Kali Reis" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt16911616",
+          "titleText": "Animal Friends",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 15 Aug 2025 00:00:00 GMT",
+          "genres": ["Animation", "Action", "Adventure"],
+          "principalCredits": [
+            { "id": "nm0005351", "text": "Ryan Reynolds" },
+            { "id": "nm2201555", "text": "Aubrey Plaza" },
+            { "id": "nm0597388", "text": "Jason Momoa" },
+            { "id": "nm2391794", "text": "Dan Levy" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Aug 29, 2025",
+      "entries": [
+        {
+          "id": "tt17043156",
+          "titleText": "Thread: An Insidious Tale",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODBlM2JiNDItMDBlNi00YWQ2LWI0ZjctMjZhYmYxYWNhODUzXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg",
+            "maxHeight": 900,
+            "maxWidth": 600,
+            "caption": "Thread: An Insidious Tale (2025)"
+          },
+          "releaseDate": "Fri, 29 Aug 2025 00:00:00 GMT",
+          "genres": ["Horror", "Mystery", "Sci-Fi"],
+          "principalCredits": [
+            { "id": "nm0601553", "text": "Mandy Moore" },
+            { "id": "nm3529685", "text": "Kumail Nanjiani" }
+          ],
+          "releaseYear": { "year": 2025 }
+        },
+        {
+          "id": "tt32393988",
+          "titleText": "Untitled Sony/Blumhouse Insidious",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "releaseDate": "Fri, 29 Aug 2025 00:00:00 GMT",
+          "genres": ["Horror", "Mystery", "Thriller"],
+          "principalCredits": [],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    },
+    {
+      "group": "Sep 01, 2025",
+      "entries": [
+        {
+          "id": "tt28784201",
+          "titleText": "Another in the Fire",
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "canHaveEpisodes": false
+          },
+          "imageModel": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWE0YmVmOGQtYjVhMy00ODNjLWJkN2UtZmVhZjlkYjFlNGU3XkEyXkFqcGdeQXVyMTg3MDI1NDk@._V1_.jpg",
+            "maxHeight": 2304,
+            "maxWidth": 1728,
+            "caption": "Another in the Fire (2025)"
+          },
+          "releaseDate": "Mon, 01 Sep 2025 00:00:00 GMT",
+          "genres": ["Action", "Biography"],
+          "principalCredits": [
+            { "id": "nm1330276", "text": "Randy Couture" },
+            { "id": "nm0366890", "text": "Luce Rains" },
+            { "id": "nm3373649", "text": "Shannon Ritch" },
+            { "id": "nm2502187", "text": "Luke Hawx" }
+          ],
+          "releaseYear": { "year": 2025 }
+        }
+      ]
+    }
+  ]
+}
