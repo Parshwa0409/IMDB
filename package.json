@@ -1,0 +1,26 @@
+{
+  "name": "imdb",
+  "version": "1.0.0",
+  "description": "A project to test my skills on EJS,Express,Public API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parshwa0409/IMDB.git"
+  },
+  "author": "Parshwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parshwa0409/IMDB/issues"
+  },
+  "homepage": "https://github.com/Parshwa0409/IMDB#readme",
+  "dependencies": {
+    "axios": "^1.7.6",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}

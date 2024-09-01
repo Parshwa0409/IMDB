@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include ("./templates/header.ejs", {title: "IMDb - Weekly Top 10"}) %>
+  <body>
+    <%- include('./templates/navbar.ejs') %>
+
+    <section class="hero-section">
+      <div class="mx-auto">
+        <div class="introduction">
+          <h1>Welcome to "IMDb - Movie Info"</h1>
+          <p>
+            Dive into the world of movies! Discover ratings, reviews, cast
+            details, and more with data directly from IMDb. Whether you're
+            searching for the latest blockbusters or hidden gems, we've got you
+            covered.
+          </p>
+        </div>
+
+        <form class="action-search-bar">
+          <div class="form-group">
+            <input
+              type="text"
+              class="form-control"
+              id="search-text"
+              placeholder="Search for movies, actors, directors..."
+            />
+          </div>
+          <button type="submit" class="btn btn-warning">
+            Search <i class="fa fa-search" aria-hidden="true"></i>
+          </button>
+        </form>
+      </div>
+    </section>
+
+    <section id="weekly-top-10">
+      <h1 class="ml-3">Weekly Top 10</h1>
+      <div class="movie-row">
+        <% if (locals.weeklyTop10.statusCode === 200) { %> <%
+        locals.weeklyTop10.data.forEach(movie => { %>
+        <%-include('./templates/movie_card.ejs', {movie: movie}) %> <% }) %> <%
+        }else { %>
+        <h1>Really Sorry, COuld not fetch the Weekly Top 10</h1>
+        <% } %>
+      </div>
+    </section>
+
+    <%# TODO: popular_genres, popular_keywords CARDS - ON CLICK DO THAT SEARCH-API CALL %>
+    <section id="featured-section">
+      <div class="featured-movie">
+        <h2>Featured Movie: Inception</h2>
+        <p>
+          Experience the mind-bending thriller directed by Christopher Nolan.
+          Join Dom Cobb and his team as they delve deep into the world of
+          dreams.
+        </p>
+        <a href="#featured-movie-details">Learn More</a>
+      </div>
+    </section>
+  </body>
+
+  <%- include ("./templates/footer.ejs", {title: "IMDb - Weekly Top 10"}) %>
+</html>

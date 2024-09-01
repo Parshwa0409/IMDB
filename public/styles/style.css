@@ -1,0 +1,93 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.nav-item {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: black;
+  margin-left: 0.5rem;
+}
+
+.nav-item:hover {
+  color: rgb(241, 187, 22) !important;
+  transform: scale(1.15);
+  transition: transform 0.5s;
+}
+
+/*  */
+.hero-section {
+  padding: 1rem 3rem;
+}
+
+.action-search-bar {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.action-search-bar .form-group {
+  padding: 1rem 0;
+  flex: 4;
+  margin: 0;
+}
+
+.action-search-bar button {
+  flex: 1;
+
+  margin-left: 0.25rem;
+}
+
+/*  */
+.movie-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.movie-card {
+  padding: 0.25rem;
+  margin: 1rem;
+  width: 18%;
+}
+
+.movie-card:hover {
+  transform: scale(1.015);
+  transition: transform 0.5s;
+  background-color: rgb(241, 187, 22) !important;
+}
+
+.movie-card > .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.movie-card .card-title {
+  font-size: 1.35rem;
+  font-weight: bold;
+}
+
+.movie-card .bottom-row {
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+.plot-desc {
+  margin-top: 0.25rem;
+  text-align: justify;
+}
+
+/*  */
+#weekly-top-10 {
+  padding: 1rem 2rem;
+}
+
+/* 
+#featured-section {}
+*/

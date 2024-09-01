@@ -1,0 +1,13 @@
+<div class="card movie-card">
+  <img src="<%=movie.primaryImage.imageUrl%>" class="card-img-top p-3" />
+  <div class="card-body">
+    <div class="top-row">
+      <p class="card-title"><%=movie.originalTitleText.text%></p>
+      <p class="card-text plot-desc"><%=movie.plot.plotText.plainText%></p>
+    </div>
+    <div class="bottom-row">
+      <p class="card-text">Year: <%=movie.releaseYear.year%></p>
+      <p class="card-text">Rating: <%=movie.titleCertificate.rating%></p>
+    </div>
+  </div>
+</div>
